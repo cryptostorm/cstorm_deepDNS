@@ -1,0 +1,103 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            08:8e:31:a0:e1:ad:75:29:6b:d2:56:0e:b0:7c:49:4a
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance CA-3
+        Validity
+            Not Before: Aug 28 00:00:00 2014 GMT
+            Not After : Oct 28 12:00:00 2015 GMT
+        Subject: C=US, ST=CA, L=Menlo Park, O=Facebook, Inc., CN=*.facebook.com
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub: 
+                    04:d8:d1:dd:35:bd:e2:59:b6:fb:9b:1f:54:15:8c:
+                    db:bf:4e:58:bd:47:be:b8:10:fc:22:e9:d2:9e:98:
+                    f8:49:2a:25:fb:94:46:e4:42:99:84:50:1c:5f:01:
+                    fd:14:25:31:5c:4e:d9:64:fd:c5:0c:b3:46:d2:a1:
+                    bc:70:b4:87:8e
+                ASN1 OID: prime256v1
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:50:EA:73:89:DB:29:FB:10:8F:9E:E5:01:20:D4:DE:79:99:48:83:F7
+
+            X509v3 Subject Key Identifier: 
+                43:09:93:40:FA:11:4B:30:33:EC:F2:87:6E:8D:71:18:CF:8A:BC:8E
+            X509v3 Subject Alternative Name: 
+                DNS:*.facebook.com, DNS:facebook.com, DNS:*.fbsbx.com, DNS:*.fbcdn.net, DNS:*.xx.fbcdn.net, DNS:*.xy.fbcdn.net, DNS:fb.com, DNS:*.fb.com, DNS:*.facebookcorewwwi.onion, DNS:facebookcorewwwi.onion, DNS:*.fbcdn23dssr3jqnq.onion, DNS:fbcdn23dssr3jqnq.onion, DNS:*.fbsbx2q4mvcl63pw.onion, DNS:fbsbx2q4mvcl63pw.onion, DNS:*.m.facebook.com, DNS:*.messenger.com, DNS:messenger.com, DNS:*.m.facebookcorewwwi.onion, DNS:*.xx.fbcdn23dssr3jqnq.onion, DNS:xx.fbcdn23dssr3jqnq.onion, DNS:*.xy.fbcdn23dssr3jqnq.onion, DNS:xy.fbcdn23dssr3jqnq.onion
+            X509v3 Key Usage: critical
+                Digital Signature, Key Agreement
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl3.digicert.com/ca3-g29.crl
+
+                Full Name:
+                  URI:http://crl4.digicert.com/ca3-g29.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.114412.1.1
+                  CPS: https://www.digicert.com/CPS
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.digicert.com
+                CA Issuers - URI:http://cacerts.digicert.com/DigiCertHighAssuranceCA-3.crt
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+    Signature Algorithm: sha1WithRSAEncryption
+         0b:56:34:fd:d0:e9:eb:6e:86:56:d1:f4:e2:3a:6e:8f:80:12:
+         ee:40:70:61:82:80:1d:e2:96:cd:30:48:e9:55:69:9e:84:68:
+         6b:90:e4:34:92:88:76:bd:aa:0a:55:1a:ee:64:52:0f:80:65:
+         6c:b0:48:ec:94:24:f7:cd:80:66:b0:16:57:da:40:40:a5:58:
+         1a:73:90:fe:b1:9e:3d:eb:d3:16:04:02:09:4d:f9:f5:32:91:
+         f6:1e:9e:7a:f9:76:34:79:c7:1a:e6:c1:19:db:10:76:a8:08:
+         8a:63:51:86:9f:b7:30:52:0c:b8:ff:c1:1a:83:b7:48:bb:da:
+         9c:3e:83:6d:5e:ae:f6:a0:34:ae:86:13:32:49:9e:e4:39:ad:
+         ff:2d:ec:c0:97:15:4a:c6:8d:2f:87:ef:3e:83:03:e9:52:6c:
+         a8:7a:27:67:b6:b5:77:f3:93:c1:05:6e:1b:40:dc:eb:c1:c4:
+         a6:b1:13:f1:a6:62:53:82:af:9a:e7:e0:67:c2:31:eb:5c:9d:
+         9f:83:e0:39:c8:cc:9d:92:fb:09:9a:b5:ed:e8:0f:c5:b3:47:
+         0f:21:e4:8c:11:d9:c0:f9:fe:8d:7f:da:53:25:36:9f:e8:87:
+         9e:52:2e:0e:89:c3:6d:4b:74:2e:1d:93:79:09:46:71:46:0a:
+         f1:68:1f:b8
+         
+
+-----BEGIN CERTIFICATE-----
+MIIF/DCCBOSgAwIBAgIQCI4xoOGtdSlr0lYOsHxJSjANBgkqhkiG9w0BAQUFADBm
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSUwIwYDVQQDExxEaWdpQ2VydCBIaWdoIEFzc3VyYW5j
+ZSBDQS0zMB4XDTE0MDgyODAwMDAwMFoXDTE1MTAyODEyMDAwMFowYTELMAkGA1UE
+BhMCVVMxCzAJBgNVBAgTAkNBMRMwEQYDVQQHEwpNZW5sbyBQYXJrMRcwFQYDVQQK
+Ew5GYWNlYm9vaywgSW5jLjEXMBUGA1UEAwwOKi5mYWNlYm9vay5jb20wWTATBgcq
+hkjOPQIBBggqhkjOPQMBBwNCAATY0d01veJZtvubH1QVjNu/Tli9R764EPwi6dKe
+mPhJKiX7lEbkQpmEUBxfAf0UJTFcTtlk/cUMs0bSobxwtIeOo4IDdDCCA3AwHwYD
+VR0jBBgwFoAUUOpzidsp+xCPnuUBINTeeZlIg/cwHQYDVR0OBBYEFEMJk0D6EUsw
+M+zyh26NcRjPiryOMIIBywYDVR0RBIIBwjCCAb6CDiouZmFjZWJvb2suY29tggxm
+YWNlYm9vay5jb22CCyouZmJzYnguY29tggsqLmZiY2RuLm5ldIIOKi54eC5mYmNk
+bi5uZXSCDioueHkuZmJjZG4ubmV0ggZmYi5jb22CCCouZmIuY29tghgqLmZhY2Vi
+b29rY29yZXd3d2kub25pb26CFmZhY2Vib29rY29yZXd3d2kub25pb26CGCouZmJj
+ZG4yM2Rzc3IzanFucS5vbmlvboIWZmJjZG4yM2Rzc3IzanFucS5vbmlvboIYKi5m
+YnNieDJxNG12Y2w2M3B3Lm9uaW9ughZmYnNieDJxNG12Y2w2M3B3Lm9uaW9ughAq
+Lm0uZmFjZWJvb2suY29tgg8qLm1lc3Nlbmdlci5jb22CDW1lc3Nlbmdlci5jb22C
+GioubS5mYWNlYm9va2NvcmV3d3dpLm9uaW9ughsqLnh4LmZiY2RuMjNkc3NyM2px
+bnEub25pb26CGXh4LmZiY2RuMjNkc3NyM2pxbnEub25pb26CGyoueHkuZmJjZG4y
+M2Rzc3IzanFucS5vbmlvboIZeHkuZmJjZG4yM2Rzc3IzanFucS5vbmlvbjAOBgNV
+HQ8BAf8EBAMCA4gwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGEGA1Ud
+HwRaMFgwKqAooCaGJGh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9jYTMtZzI5LmNy
+bDAqoCigJoYkaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL2NhMy1nMjkuY3JsMEIG
+A1UdIAQ7MDkwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3
+LmRpZ2ljZXJ0LmNvbS9DUFMwewYIKwYBBQUHAQEEbzBtMCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5kaWdpY2VydC5jb20wRQYIKwYBBQUHMAKGOWh0dHA6Ly9jYWNl
+cnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEhpZ2hBc3N1cmFuY2VDQS0zLmNydDAM
+BgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBBQUAA4IBAQALVjT90OnrboZW0fTiOm6P
+gBLuQHBhgoAd4pbNMEjpVWmehGhrkOQ0koh2vaoKVRruZFIPgGVssEjslCT3zYBm
+sBZX2kBApVgac5D+sZ4969MWBAIJTfn1MpH2Hp56+XY0ecca5sEZ2xB2qAiKY1GG
+n7cwUgy4/8Eag7dIu9qcPoNtXq72oDSuhhMySZ7kOa3/LezAlxVKxo0vh+8+gwPp
+UmyoeidntrV385PBBW4bQNzrwcSmsRPxpmJTgq+a5+BnwjHrXJ2fg+A5yMydkvsJ
+mrXt6A/Fs0cPIeSMEdnA+f6Nf9pTJTaf6IeeUi4OicNtS3QuHZN5CUZxRgrxaB+4
+-----END CERTIFICATE-----
