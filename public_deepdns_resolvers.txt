@@ -1,0 +1,49 @@
+
+current publicly-available deepDNS resolvers, listed individually...
+majulah.deepdns.net			103.254.153.244
+stakaya.deepdns.net			76.164.234.11
+tagus.deepdns.net			109.71.42.228
+laika.deepdns.net			91.214.70.199
+onyx.deepdns.net			212.129.46.86
+alors.deepdns.net			212.129.46.32
+cantus.deepdns.net			46.165.222.246
+maple.deepdns.net			198.100.159.249
+turing.deepdns.net			31.24.34.50
+miyamoto.deepdns.net			124.35.151.85
+sly.deepdns.net 			142.54.172.53
+chelsea.deepdns.net			176.123.6.110
+porajmos.deepdns.net			37.58.60.133
+jeremy.deepdns.net			172.98.201.43
+cf-ii.deepdns.net			195.154.61.33
+
+...via redundant fallback TLD
+majulah.deepdns.dk			103.254.153.244
+fenrir.deepdns.dk			79.134.235.131
+stakaya.deepdns.dk			76.164.234.11
+tagus.deepdns.dk			109.71.42.228
+laika.deepdns.dk			91.214.70.199
+onyx.deepdns.dk				212.129.46.86
+alors.deepdns.dk			212.129.46.32
+cantus.deepdns.dk			46.165.222.246
+maple.deepdns.dk			198.100.159.249
+turing.deepdns.dk			31.24.34.50
+miyamoto.deepdns.dk			124.35.151.85
+sly.deepdns.dk                          142.54.172.53
+
+
+...& here are the IP pools underlying public.deepdns.net & public.deepdns.dk
+103.254.153.244
+76.164.234.11
+109.71.42.228
+91.214.70.199
+212.129.46.86
+212.129.46.32
+46.165.222.246
+198.100.159.249
+31.24.34.50
+124.35.151.85
+142.54.172.53
+176.123.6.110
+37.58.60.133
+172.98.201.43
+195.154.61.33
