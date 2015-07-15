@@ -15,6 +15,7 @@ chelsea.deepdns.net			176.123.6.110
 porajmos.deepdns.net			37.58.60.133
 jeremy.deepdns.net			172.98.201.43
 cf-ii.deepdns.net			195.154.61.33
+cf-i.deepdns.net                        212.83.175.31
 
 ...via redundant fallback TLD
 majulah.deepdns.dk			103.254.153.244
@@ -29,6 +30,8 @@ maple.deepdns.dk			198.100.159.249
 turing.deepdns.dk			31.24.34.50
 miyamoto.deepdns.dk			124.35.151.85
 sly.deepdns.dk                          142.54.172.53
+cf-ii.deepdns.dk                        195.154.61.33
+cf-i.deepdns.dk                         212.83.175.31
 
 
 ...& here are the IP pools underlying public.deepdns.net & public.deepdns.dk
@@ -47,3 +50,4 @@ sly.deepdns.dk                          142.54.172.53
 37.58.60.133
 172.98.201.43
 195.154.61.33
+212.83.175.31
