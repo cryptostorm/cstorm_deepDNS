@@ -1,4 +1,4 @@
-# deepDNS
+# deepDNS - wtf?
 This is cryptostorm's <a href="http://dnschain.org">DNSchain</a>'d, <a href="https://dnscurve.org">DNScurve</a>'d, <a href="https://cryptostorm.org/viewtopic.php?f=47&t=8553">native .onion + .bit + .i2p</a> DNS resolution & integrity validation framework is a groundbreaking, integrated, systems-level solution to the vast security and reliability problems of the conventionally-provided domain name system architecture of the public internet today. 
 
 Here we have collected the totality of public-facing source materials in one location - available directly via <a href="http://deepdns.dk">deepdns.dk</a>. We will continue to expand on the resources published here, as deepDNS continues to evolve from a purely internal cryptostorm function to a publicly-available resource for broad community usage, extension, and enhancement.
@@ -6,7 +6,7 @@ Here we have collected the totality of public-facing source materials in one loc
 Additional commentary and explanatory discussion threads may be found in the <a href="http://deepdns.net">deepdns.net</a> subforum of our <a href="https://cryptostorm.org">cryptostorm.org member forum</a>, collectively. Bug/error reports on specific items in this repository are best filed via issue tracking here in the repository, however broader crtitique of discussion is generally best served via threads in the forum. 
 
 
-# public deepDNS resolve access
+# public deepDNS resolver pool access
 we've mirrored over the current listing of all deepDNS resolvers available for public use. THis publicly-available function has grown from an incidental by-product of using deepDNS-enabled nameserver queries in cryptostorm session spin-up, into a resource increasingly used by the community outside of cryptostorm-specific scenarios.
 
 At some point, we were faced with the decision either to lock the resolver framework down to on-cstorm access exclusively, or to continue supporting broader community availablity of deepDNS. As a team, the decision to choose the latter pathway was unanimous.
