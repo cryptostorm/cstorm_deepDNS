@@ -54,5 +54,5 @@ The CurveDNS daemons mentioned way above are internet accessible.
  So in the mean-time, if you worry your ISP provided DNS servers are caching, poisoning, whatever. Use CS's ddns.    
 All are welcome :) . They are public DNS servers.
 
-# deepDNS - I'm not on CS though
-All of our deepdns servers are accessible outside of CS. That's intentional.
+# what?
+shutup.
