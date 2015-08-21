@@ -10,7 +10,7 @@ DNS over ddns normally happens as such:
  * client gets on CS, OpenVPN pushes the exit node's ddns IP to the client, client then uses that for all DNS requests.
  * client tries to resolve whatever..
  * DNS request hits the internet facing CurveDNS (http://curvedns.on2it.net/) process.
- * *Note: we haven't actually implemented DNSCurve at this point, but once we figure out a half-decent way to do so for Windows ppl, we can implement it with this existing structure.*
+ * *Note: we haven't actually implemented DNSCurve at this point (well, not in the full model we're working towards - from client machine all the way through the cstorm network & back, securely end-to-end), but once we figure out a half-decent way to do so for Windows ppl, we can implement it with this existing structure.*
  * *Another note: The reason we prefer CurveDNS as the public facing daemon, is simply because the code appears to be solid, and we'll be using it's other features very soon.*
  * So since the request is regular(ish) DNS and not CurveDNS, it gets forwarded to the authoritive DNS server running on 127.0.0.1:53 (on the exit node).
  * 127.0.0.1:53 is the powerdns-recursor process (https://doc.powerdns.com/md/recursor/).
@@ -50,9 +50,17 @@ The CurveDNS daemons mentioned way above are internet accessible.
  That's intentional.  
  It's so that once we implement DNSCurve client-side, CS members won't be susceptible to DNS hijacking (or any of the other horrible problems with the DNS protocol).
  
-  And anyone who wants to force their system to use our DNS servers before they even connect (to prevent any degree of ISP level DNS hijacks), can do so.  
- So in the mean-time, if you worry your ISP provided DNS servers are caching, poisoning, whatever. Use CS's ddns.    
-All are welcome :) . They are public DNS servers.
+  And anyone who wants to force their system to use our DNS servers before they even connect (to prevent any degree of ISP level DNS hijacks), can do so. So in the mean-time, if you worry your ISP provided DNS servers are caching, poisoning, whatever. Use CS's ddns. All are welcome :) .
+
+They are public DNS servers, and as of a few weeks ago we now maintain & publish a full list of all the <a href="https://github.com/cryptostorm/cstorm-deepDNS/blob/master/public_deepdns_resolvers.txt" target="_blank">deepDNS public resolver IPs</a>... which can also be enumerated via a lookup of "public.deepdns.net" or "public.deepdns.dk" (where they are maintained via semi-automated A Record synchronisation).
+
+It's possible there will be a future split between the public deepDNS resolvers and those use for on-cstorm duties, however currently we've not yet seen a good reason to implement such a split & thus have not done so. Actually, the more we looked at it the more we felt it's important to retain as much public access to our deepDNS system of domain resolution as we can without introducing concomitant security risks or operational weak links because... well because so much about conventional DNS resolution on the internet is so horribly broken/insecure that we'd feel like dicks if we prevented folks from making use of what small improvements we're able to provide via deepDNS/public.
+
+Also we (which means pj, actually) have not-so-secret meta-plans to integrate deepDNS with the nascent CA-free cryptographic validation approach of our <a href="http://keychain.tools" target="_blank">KeyChain.tools methodology</a> & thus gain much additional leverage in tackling related problems in secure network session management... which would be nowhere near as useful if limited only to on-cstorm usage. So basically we're doing deepDNS as a public/community-accessible resource & the only way that'll change is if serious bottlenecks appear in the form of technical constraints we're not smart enough to work around without limiting public access to deepDNS.
+
+The flipside is that we're watching a really steep growth curve in the public use of deepDNS resolvers, across our mesh-based network of node resources supporting those IPs. Already, the usage level has hit "shit-tonne" levels and looks on track to reach "fuck-load" in the near future. From there... who knows? :-P
+
+We'll keep adding servers & other resources to maintain ongoing unlimited public deepDNS access, even at beyond-fuckload levels of usage/load, just as long as folks keep buying <a href="https://cryptostorm.is/join.html" target="_blank">cstorm network access tokens</a> & thereby supporting stuff like public deepDNS (where "support" is syntactically commutative with "providing revenue - money - so we can pay all the bills & still have money left over to buy cookies for Graze," more or less ;-). Basically it's a "help us help you" sort of thing... but without the creepy Tom Cruise Scientology background that lurks just outside the visual frame of <a>Jerry McGuire</i>. Or something :-P
 
 # what?
 shutup.
