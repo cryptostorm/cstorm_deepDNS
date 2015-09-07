@@ -12,7 +12,7 @@ DNS over ddns normally happens as such:
  * DNS request hits the internet facing <a href="http://curvedns.on2it.net" target="_blank">CurveDNS</a> process.
  * *Note: we haven't actually implemented DNSCurve at this point (well, not in the full model we're working towards - from client machine all the way through the cstorm network & back, securely end-to-end - although we make use of the network-side elements of the system already), but once we figure out a half-decent way to do so all the way from client machines forward for Windows ppl, we can implement it with this existing structure.*
  * *Another note: The reason we prefer CurveDNS as the public facing daemon, is simply because the code appears to be solid, and we'll be using it's other features very soon.*
- * So since the request is regular(ish) DNS and not CurveDNS, it gets forwarded to the authoritive DNS server running on 127.0.0.1:53 (on the exit node).
+ * So since the request is regular(ish) DNS and not CurveDNS, it gets forwarded to the recursive DNS server running on 127.0.0.1:53 (on the exit node).
  * 127.0.0.1:53 is the <a href="https://doc.powerdns.com/md/recursor?" target="_blank">powerdns-recursor</a> process.
  * Our pdns-recursor uses this in it's config:  
 *     forward-zones=bit.=127.0.0.1:5333,dns.=127.0.0.1:5333,eth.=127.0.0.1:5333,p2p.=127.0.0.1:5333,onion.=127.0.0.1:5335,i2p.=127.0.0.1:5399
