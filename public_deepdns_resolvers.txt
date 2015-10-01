@@ -32,7 +32,7 @@ sly.deepdns.net 			192.151.151.163
 viva.deepdns.net			104.238.194.235
 wolverine.deepdns.net			95.110.227.207
 cf-ii.deepdns.net			195.154.61.33
-cf-i.deepdns.net      212.83.175.31
+cf-i.deepdns.net        212.83.175.31
 skana.deepdns.net			162.221.207.228
 
 
