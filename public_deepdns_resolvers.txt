@@ -1,7 +1,6 @@
 here are the IP pools underlying public.deepdns.net & public.deepdns.dk
-cryptofree-i		195.154.61.33
+cryptofree-i		212.83.175.31
 cryptofree-ii		195.154.61.33
-porajmos		23.92.211.51
 cantus			46.165.222.246
 onyx			212.129.46.86
 alors			212.129.46.32
@@ -31,10 +30,9 @@ turing.deepdns.net			31.24.34.50
 miyamoto.deepdns.net			124.35.151.85
 sly.deepdns.net 			192.151.151.163
 viva.deepdns.net			104.238.194.235
-porajmos.deepdns.net			37.58.60.133
 wolverine.deepdns.net			95.110.227.207
 cf-ii.deepdns.net			195.154.61.33
-cf-i.deepdns.net                        195.154.61.33
+cf-i.deepdns.net      212.83.175.31
 skana.deepdns.net			162.221.207.228
 
 
@@ -51,10 +49,9 @@ turing.deepdns.dk			31.24.34.50
 miyamoto.deepdns.dk			124.35.151.85
 sly.deepdns.dk 				192.151.151.163
 viva.deepdns.dk				104.238.194.235
-porajmos.deepdns.dk			37.58.60.133
 wolverine.deepdns.dk			95.110.227.207
 cf-ii.deepdns.dk			195.154.61.33
-cf-i.deepdns.dk				195.154.61.33
+cf-i.deepdns.dk				212.83.175.31
 skana.deepdns.dk			162.221.207.228
 
 
