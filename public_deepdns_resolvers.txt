@@ -1,54 +1,61 @@
-NOTE: use these for the moment:
 here are the IP pools underlying public.deepdns.net & public.deepdns.dk
-cantus - 46.165.222.246
-onyx - 212.129.46.86
-maple - 23.92.211.51
-alors - 212.129.46.32
-turing - 31.24.34.50
-tagus - 109.71.42.228
-stakaya - 76.164.234.11
-majulah - 103.254.153.244
-miyamoto - 124.35.151.85
-sly - 192.151.151.163
-jord - 185.60.147.77
-wolverine - 95.110.227.207
-viva - 104.238.194.235
+cryptofree-i		195.154.61.33
+cryptofree-ii		195.154.61.33
+porajmos		23.92.211.51
+cantus			46.165.222.246
+onyx			212.129.46.86
+alors			212.129.46.32
+turing			31.24.34.50
+tagus			109.71.42.228
+stakaya			76.164.234.11
+skana			162.221.207.228
+majulah			103.254.153.244
+miyamoto		124.35.151.85
+sly			192.151.151.163
+shuffle			69.30.211.211
+jord			185.60.147.77
+wolverine		95.110.227.207
+viva			104.238.194.235
 
-
-I (df) haven't yet updated the ones below, so use the above for now.
 
 current publicly-available deepDNS resolvers, listed individually...
 majulah.deepdns.net			103.254.153.244
 stakaya.deepdns.net			76.164.234.11
 tagus.deepdns.net			109.71.42.228
-laika.deepdns.net			91.214.70.199
+shuffle.deepdns.net			69.30.211.211
 onyx.deepdns.net			212.129.46.86
 alors.deepdns.net			212.129.46.32
 cantus.deepdns.net			46.165.222.246
-maple.deepdns.net			198.100.159.249
+jord.deepdns.net			185.60.147.77
 turing.deepdns.net			31.24.34.50
 miyamoto.deepdns.net			124.35.151.85
-sly.deepdns.net 			142.54.172.53
-chelsea.deepdns.net			176.123.6.110
+sly.deepdns.net 			192.151.151.163
+viva.deepdns.net			104.238.194.235
 porajmos.deepdns.net			37.58.60.133
-jeremy.deepdns.net			172.98.201.43
+wolverine.deepdns.net			95.110.227.207
 cf-ii.deepdns.net			195.154.61.33
-cf-i.deepdns.net                        212.83.175.31
+cf-i.deepdns.net                        195.154.61.33
+skana.deepdns.net			162.221.207.228
+
 
 ...via redundant fallback TLD
 majulah.deepdns.dk			103.254.153.244
-fenrir.deepdns.dk			79.134.235.131
 stakaya.deepdns.dk			76.164.234.11
 tagus.deepdns.dk			109.71.42.228
-laika.deepdns.dk			91.214.70.199
+shuffle.deepdns.dk			69.30.211.211
 onyx.deepdns.dk				212.129.46.86
 alors.deepdns.dk			212.129.46.32
 cantus.deepdns.dk			46.165.222.246
-maple.deepdns.dk			198.100.159.249
+jord.deepdns.dk				185.60.147.77
 turing.deepdns.dk			31.24.34.50
 miyamoto.deepdns.dk			124.35.151.85
-sly.deepdns.dk                          142.54.172.53
-cf-ii.deepdns.dk                        195.154.61.33
-cf-i.deepdns.dk                         212.83.175.31
+sly.deepdns.dk 				192.151.151.163
+viva.deepdns.dk				104.238.194.235
+porajmos.deepdns.dk			37.58.60.133
+wolverine.deepdns.dk			95.110.227.207
+cf-ii.deepdns.dk			195.154.61.33
+cf-i.deepdns.dk				195.154.61.33
+skana.deepdns.dk			162.221.207.228
 
 
+...cheers! ^_^
