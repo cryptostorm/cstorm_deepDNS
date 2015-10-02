@@ -15,6 +15,7 @@ shuffle			69.30.211.211
 jord			185.60.147.77
 wolverine		95.110.227.207
 viva			104.238.194.235
+loup			5.154.191.23
 
 
 current publicly-available deepDNS resolvers, listed individually...
@@ -34,6 +35,7 @@ wolverine.deepdns.net			95.110.227.207
 cf-ii.deepdns.net			195.154.61.33
 cf-i.deepdns.net        		212.83.175.31
 skana.deepdns.net			162.221.207.228
+loup.deepdns.net			5.154.191.23
 
 
 ...via redundant fallback TLD
@@ -53,6 +55,7 @@ wolverine.deepdns.dk			95.110.227.207
 cf-ii.deepdns.dk			195.154.61.33
 cf-i.deepdns.dk				212.83.175.31
 skana.deepdns.dk			162.221.207.228
+loup.deepdns.dk				5.154.191.23
 
 
 ...cheers! ^_^
