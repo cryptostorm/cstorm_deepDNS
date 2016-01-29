@@ -1,3 +1,6 @@
+# update
+Since v3 of the widget includes DNSCrypt support, I'm switching the list of public resolvers from the old .txt + DNS A record format that was rarely updated to the same dnscrypt-resolvers.csv that dnscrypt uses. In github, you have to view the file in raw format to see the IPs. They'll be listed as ip:443 in there (DNSCrypt runs on port 443 of the same IP that DeepDNS runs on, which would be port 53).
+
 # deepDNS - wtf?
 
 df_cryptostorm has been threatened, harrassed, abused (okay, maybe just asked nicely ...-ish) for technical details on the internal structure of deepDNS that cryptostorm uses network-wide. So let's see if I can articumulate...
