@@ -1,5 +1,13 @@
-# update
-Since v3 of the widget includes DNSCrypt support, I'm switching the list of public resolvers from the old .txt + DNS A record format that was rarely updated to the same dnscrypt-resolvers.csv that dnscrypt uses. In github, you have to view the file in raw format to see the IPs. They'll be listed as ip:443 in there (DNSCrypt runs on port 443 of the same IP that DeepDNS runs on, which would be port 53).
+# 2016 update
+The original idea was to implement DNSCurve client-side for pre-connect DNS security.<br>
+Since no stable windows DNSCurve code is out (yet?), df decided to just use dnscrypt.<br>
+So some of the data in the section below this one is now outdated, although in the future we still might switch to DNSCurve for pre-connect stuff if there ever is a stable win32/64 build of it.<br><br>
+
+We're still using CurveDNS as the internet facing side of DeepDNS, simply because I still think that the code is pretty damn good.<br><br>
+
+Since v3 of the upcoming widget includes DNSCrypt support, I'm switching the list of public resolvers from the old .txt + DNS A record format (that was rarely updated) to the same dnscrypt-resolvers.csv format that dnscrypt-proxy uses (included in v3 widget). In github, you have to view the file in raw format to see the IPs. They'll be listed as ip:443 in there. Those IPs are the same as the DeepDNS IPs, so if you want to use DeepDNS outside of the widget (linux, openvpn GUI on win, etc.), use those.<br><br>
+
+And here's the old README, most of it still applies:
 
 # deepDNS - wtf?
 
