@@ -1,7 +1,9 @@
 # 2016 update
 The original idea was to implement DNSCurve client-side for pre-connect DNS security.<br>
 Since no stable windows DNSCurve code is out (yet?), df decided to just use dnscrypt.<br>
-So some of the data in the section below this one is now outdated, although in the future we still might switch to DNSCurve for pre-connect stuff if there ever is a stable win32/64 build of it.<br><br>
+So some of the data in the section below this one is now outdated, although in the future we still might switch to DNSCurve for pre-connect stuff if there ever is a stable win32/64 build of it.<br><b>
+
+The idea is fairly simple, v3 widget will use dnscrypt-proxy to connect to one of the IPs listed in dnscrypt-resolvers.csv so that if your ISP is sniffing your DNS, then your ISP will be unable to see that you're trying to resolve (for example) windows-uswest.cstorm.pw. Might be a little bit overkill, but we like overkill when anonymity/security is involved :-)<br><br>
 
 We're still using CurveDNS as the internet facing side of DeepDNS, simply because I still think that the code is pretty damn good.<br><br>
 
