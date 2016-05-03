@@ -1,8 +1,9 @@
-# The format for this whitelist is simply be the hostname or domain of the thing that needs to be whitelisted.
-# One entry per line; For example:
+cryptostorm
+msedge
 analytics.twitter.com
 www.wtvy.com
 cs1.wpc.v0cdn.net
 analytics.google.com
 clicks.aweber.com
-a-0002.a-msedge.net
+livefyre.com
+fyre.co
