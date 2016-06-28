@@ -4,6 +4,9 @@ analytics.twitter.com
 www.wtvy.com
 cs1.wpc.v0cdn.net
 analytics.google.com
+google.com
+google-analytics.com
+l.google.com
 clicks.aweber.com
 livefyre.com
 fyre.co
