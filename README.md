@@ -65,7 +65,7 @@ The CurveDNS daemons mentioned way above are internet accessible.
  
   And anyone who wants to force their system to use our DNS servers before they even connect (to prevent any degree of ISP level DNS hijacks), can do so. So in the mean-time, if you worry your ISP provided DNS servers are caching, poisoning, whatever. Use CS's ddns. All are welcome :) .
 
-They are public DNS servers, and as of a few weeks ago we now maintain & publish a full list of all the <a href="https://github.com/cryptostorm/cstorm_deepDNS/blob/master/dnscrypt-resolvers.csv" target="_blank">deepDNS public resolver IPs</a>... which can also be enumerated via a lookup of "public.deepdns.net" or "public.deepdns.dk" (where they are maintained via semi-automated A Record synchronisation).
+They are public DNS servers, and as of a few weeks ago we now maintain & publish a full list of all the <a href="https://github.com/cryptostorm/cstorm_deepDNS/blob/master/dnscrypt-resolvers.csv" target="_blank">deepDNS public resolver IPs</a>... which can also be enumerated via a lookup of "public.deepdns.net".
 
 It's possible there will be a future split between the public deepDNS resolvers and those use for on-cstorm duties, however currently we've not yet seen a good reason to implement such a split & thus have not done so. Actually, the more we looked at it the more we felt it's important to retain as much public access to our deepDNS system of domain resolution as we can without introducing concomitant security risks or operational weak links because... well because so much about conventional DNS resolution on the internet is so horribly broken/insecure that we'd feel like dicks if we prevented folks from making use of what small improvements we're able to provide via deepDNS/public.
 
