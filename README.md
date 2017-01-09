@@ -56,7 +56,7 @@ DNS over ddns normally happens as such:
   
 # And for the paranoid:
 * privoxy, i2p, tor, basically everything mentioned above that binds to an internet accessible IP is firewalled with iptables to prevent the internet from touching it.
-Also every single instance that uses a port < 1024 runs under an extremely restricitve account.
+Also, every single instance runs under an extremely restrictive account.
 
 # Another fun fact:     
 The CurveDNS daemons mentioned way above are internet accessible. 
