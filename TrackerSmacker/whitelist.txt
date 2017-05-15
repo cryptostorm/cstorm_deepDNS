@@ -26,3 +26,5 @@ nsatc.net
 azurewebsites.net
 windows.net
 cloudapp.net
+exacttarget.com
+herokuapp.com
