@@ -28,3 +28,4 @@ windows.net
 cloudapp.net
 exacttarget.com
 herokuapp.com
+blog.websecurify.com
