@@ -29,3 +29,4 @@ cloudapp.net
 exacttarget.com
 herokuapp.com
 blog.websecurify.com
+spclient.wg.spotify.com
