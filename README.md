@@ -30,7 +30,7 @@ For cryptostorm clients, DNS over ddns normally happens as such:
 * 127.0.0.1:5333 is DNSChain, which forwards to namecoind to provide blockchain-based DNS for those TLDs (.bit, .dns, .eth, .p2p).
 *  127.0.0.1:5335 is tor, or more specifically, a tor instance with "DNSPort 127.0.0.1:5335" in it's torrc.
 *  127.0.0.1:5399 is for .i2p, but this one is a little tricky...
-*  * the daemon actually listening on this port is unbound,
+*  the daemon actually listening on port 5399 is unbound,
   (only because I don't know of a way to add a single, static wildcard A record for a TLD to pdns-recursor, so unbound is used).
 * *  unbound does:
 * * * local-zone: "i2p" redirect
