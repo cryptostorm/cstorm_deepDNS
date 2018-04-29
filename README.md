@@ -1,48 +1,37 @@
-# 2016 update
-The original idea was to implement DNSCurve client-side for pre-connect DNS security.<br>
-Since no stable windows DNSCurve code is out (yet?), df decided to just use dnscrypt.<br>
-So some of the data in the section below this one is now outdated, although in the future we still might switch to DNSCurve for pre-connect stuff if there ever is a stable win32/64 build of it.<br><br>
+# DeepDNS ?
 
-The idea is fairly simple, v3 widget will use dnscrypt-proxy to connect to one of the IPs listed in dnscrypt-resolvers.csv so that if your ISP is sniffing your DNS, then your ISP will be unable to see that you're trying to resolve (for example) windows-uswest.cstorm.pw. Might be a little bit overkill, but we like overkill when anonymity/security is involved :-)<br><br>
+DeepDNS is part of cryptostorm's internal DNS infrastructure.    
+It's a combination of several different DNS related programs that provide our users with direct access to most darknet resources (.onion, .i2p, .bit, .p2p, .eth etc.) in a transparent way, so no additional software is required.   
+It also provides more secure alternatives to traditional DNS.    
+All of our DeepDNS servers also act as public DNS servers.   
+This is mostly so our users can protect their DNS when they're connecting to cryptostorm, but it's also for anyone else who wants to use DNS servers that don't log their activities.   
 
-We're still using CurveDNS as the internet facing side of DeepDNS, simply because I still think that the code is pretty damn good.<br><br>
+# techie explaination
 
-Since v3 of the upcoming widget includes DNSCrypt support, I'm switching the list of public resolvers from the old .txt + DNS A record format (that was rarely updated) to the same dnscrypt-resolvers.csv format that dnscrypt-proxy uses (included in v3 widget). In github, you have to view the file in raw format to see the IPs. They'll be listed as ip:443 in there. Those IPs are the same as the DeepDNS IPs, so if you want to use DeepDNS outside of the widget (linux, openvpn GUI on win, etc.), use those.<br><br>
-
-And here's the old README, most of it still applies:
-
-# deepDNS - wtf?
-
-df_cryptostorm has been asked for technical details on the internal structure of deepDNS that cryptostorm uses network-wide. 
-So let's see if I can articumulate...
+In the rest of this README, two abbreviations are used for the sake of brevity:   
 
   - CS = <a href="https://cryptostorm.is" target="_blank">cryptostorm</a>
-  - ddns = <a href="http://deepdns.net" target="_blank">deepDNS</a>
-  - For the sake of brevity
+  - ddns = <a href="https://cryptostorm.org/viewforum.php?f=46" target="_blank">deepDNS</a>
 
-DNS over ddns normally happens as such:
- * client gets on CS, OpenVPN pushes the exit node's ddns IP to the client, client then uses that for all DNS requests.
- * client tries to resolve whatever..
- * DNS request hits the internet facing <a href="http://curvedns.on2it.net" target="_blank">CurveDNS</a> process.
- * *Note: we haven't actually implemented DNSCurve at this point
- * *Another note: The reason we prefer CurveDNS as the public facing daemon, is simply because the code appears to be solid, and we'll be using it's other features very soon.*
- * So since the request is regular DNS and not CurveDNS, it gets forwarded to the recursive DNS server running on 127.0.0.1:53 (on the exit node).
- * 127.0.0.1:53 is the <a href="https://doc.powerdns.com/md/recursor?" target="_blank">powerdns-recursor</a> process.
- * Our pdns-recursor uses this in it's config:  
-*     forward-zones=bit.=127.0.0.1:5333,dns.=127.0.0.1:5333,eth.=127.0.0.1:5333,p2p.=127.0.0.1:5333,onion.=127.0.0.1:5335,i2p.=127.0.0.1:5399
- * That translates to:
- * * send DNS requests for whatever.bit to the DNS server at 127.0.0.1:5333
-* *  * whatever.dns to the DNS server at 127.0.0.1:5333
-* *  * whatever.eth to the DNS server at 127.0.0.1:5333
-* *  * whatever.p2p to the DNS server at 127.0.0.1:5333
-* *  * whatever.onion to the DNS server at 127.0.0.1:5335
-* *  * whatever.i2p to the DNS server at 127.0.0.1:5399
+For cryptostorm clients, DNS over ddns normally happens as such:
+ * client connects to CS, OpenVPN pushes the exit node's ddns IP to the client, client then uses that for all DNS requests.
+ * client tries to resolve whatever.
+ * DNS request hits the internet facing <a href="https://doc.powerdns.com/md/recursor?" target="_blank">powerdns-recursor</a> process.
+ * * Our pdns-recursor uses this in it's config:  
+ * * *    forward-zones=bit.=127.0.0.1:5333,dns.=127.0.0.1:5333,eth.=127.0.0.1:5333,p2p.=127.0.0.1:5333,onion.=127.0.0.1:5335,i2p.=127.0.0.1:5399
+ * * * * That translates to:
+ * * * * * send DNS requests for whatever.bit to the DNS server at 127.0.0.1:5333
+ * * * * * whatever.dns to the DNS server at 127.0.0.1:5333
+ * * * * * whatever.eth to the DNS server at 127.0.0.1:5333
+ * * * * * whatever.p2p to the DNS server at 127.0.0.1:5333
+ * * * * * whatever.onion to the DNS server at 127.0.0.1:5335
+ * * * * * whatever.i2p to the DNS server at 127.0.0.1:5399
  
 * 127.0.0.1:5333 is DNSChain, which forwards to namecoind to provide blockchain-based DNS for those TLDs (.bit, .dns, .eth, .p2p).
 *  127.0.0.1:5335 is tor, or more specifically, a tor instance with "DNSPort 127.0.0.1:5335" in it's torrc.
 *  127.0.0.1:5399 is for .i2p, but this one is a little tricky...
 *  * the daemon actually listening on this port is unbound,
-  (only because I don't know a way to add a single, static wildcard A record for a TLD to pdns-recursor, so unbound is used).
+  (only because I don't know of a way to add a single, static wildcard A record for a TLD to pdns-recursor, so unbound is used).
 * *  unbound does:
 * * * local-zone: "i2p" redirect
 * * * local-data: "i2p A 10.98.0.1"
@@ -60,15 +49,11 @@ DNS over ddns normally happens as such:
 Also, every single instance runs under an extremely restrictive account.
 
 # Another fun fact:     
-The CurveDNS daemons mentioned way above are internet accessible. 
- That's intentional.  
- It's so that once we implement DNSCurve client-side, CS members won't be susceptible to DNS hijacking (or any of the other horrible problems with the DNS protocol).
- 
-  And anyone who wants to force their system to use our DNS servers before they even connect (to prevent any degree of ISP level DNS hijacks), can do so. So in the mean-time, if you worry your ISP provided DNS servers are caching, poisoning, whatever. Use CS's ddns. All are welcome :) .
+The powerdns-recursor servers mentioned way above are internet accessible. 
+That's intentional.
+
+  Anyone who wants to force their system to use our DNS servers before they even connect (to prevent any degree of ISP level DNS hijacks), can do so. So if you worry your ISP provided DNS servers are caching, poisoning, whatever. Use CS's ddns. All are welcome :)
 
 They are public DNS servers, and we maintain a full list of all the <a href="https://github.com/cryptostorm/cstorm_deepDNS/blob/master/dnscrypt-resolvers.csv" target="_blank">deepDNS public resolver IPs</a>, which can also be enumerated via a DNS lookup of "public.deepdns.net".
 
-It's possible that there will be a future split between the public deepDNS resolvers and those used for the VPN, but we haven't yet seen a good reason to implement such a split & thus have not done so.
-
-# what?
-shutup.
+It's possible that there will be a future split between the public DeepDNS resolvers and those used for the VPN, but we haven't yet seen a good reason to implement such a split so have not yet done so.
