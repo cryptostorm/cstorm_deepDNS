@@ -36,7 +36,7 @@ For cryptostorm clients, DNS over ddns normally happens as such:
 * * * local-zone: "i2p" redirect
 * * * local-data: "i2p A 10.98.0.1"
 * * so all *.i2p domains resolve to 10.98.0.1. 
-* privoxy is then setup to listen on ddns-ip:8118 and to forward all .i2p requests to the http proxy server on port 4444.
+* privoxy is then setup to listen on ddns-ip:8118 and to forward all .i2p requests to i2prouter's http proxy server on port 4444.
 * * (the lovely config directive "forward / fuckoff" is used in privoxy to prevent people from using privoxy to go anywhere else, which is redundant since this is a VPN, but it does prevent 10.* access, and iptables stops anything external, plus it's funny =P).
 * Then iptables comes into play:
 * * iptables -t nat -A OUTPUT     -d 10.98.0.1 -p tcp --dport 80 -j DNAT --to-destination ddns-ip:8118
