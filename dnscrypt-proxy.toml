@@ -53,8 +53,6 @@ stamp = 'sdns://AQIAAAAAAAAADjE4NS4xNDAuMTE0LjUxIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-
 stamp = 'sdns://AQIAAAAAAAAACzUuMTMzLjguMTg3IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw'
 [static.'cs-fi']
 stamp = 'sdns://AQIAAAAAAAAADjE4NS4xMTcuMTE4LjIwIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw'
-[static.'cs-lt']
-stamp = 'sdns://AQIAAAAAAAAADTkzLjExNS4zMC4xNTQgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz'
 [static.'cs-de3']
 stamp = 'sdns://AQIAAAAAAAAADjg5LjE2My4yMTQuMTc0IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw'
 [static.'cs-nl2']
