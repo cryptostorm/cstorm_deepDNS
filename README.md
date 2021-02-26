@@ -38,7 +38,8 @@ For cryptostorm clients, DNS over ddns normally happens as such:
 The powerdns-recursor servers mentioned above are internet accessible. 
 That's intentional.
 Anyone who wants to their system to use our DNS servers before they connect can do so. 
-They are public DNS servers, and we maintain a full list of all the <a href="https://cryptostorm.is/dns.txt" target="_blank">deepDNS public resolver IPs</a>, which can also be enumerated via a DNS lookup of "public.deepdns.net".   
+They are public DNS servers, and we maintain a full list of all the <a href="https://cryptostorm.is/dns.txt" target="_blank">deepDNS public resolver IPs</a>, which can also be enumerated via a DNS lookup of "public.deepdns.net".  
+Obviously, you would need to be connected to <a href="https://cryptostorm.is/" target="_blank">cryptostorm</a> in order to use the transparent .i2p/.onion feature described above.
 
 For anyone who wants more security than regular DNS offers (which is basically none), DNSCrypt v2 is also supported.   
 Server-side, we run <a href="https://github.com/jedisct1/encrypted-dns-server" target="_blank">https://github.com/jedisct1/encrypted-dns-server</a> on TCP port 443 of every DeepDNS IP, and we also supported Anonymized DNSCrypt relays. See <a href="https://cryptostorm.is/blog/anondns" target="_blank">https://cryptostorm.is/blog/anondns</a> for more info on that.
