@@ -20,12 +20,12 @@ cache_max_ttl = 86400
 cache_neg_ttl = 60
 [sources]
 [sources.'cs-resolvers']
-urls = ['https://cryptostorm.is/cs-resolvers.md', 'https://raw.githubusercontent.com/cryptostorm/cstorm_deepDNS/cs-resolvers.md']
+urls = ['https://cryptostorm.is/cs-resolvers.md', 'https://raw.githubusercontent.com/cryptostorm/cstorm_deepDNS/master/cs-resolvers.md']
 cache_file = 'cs-resolvers.md'
 minisign_key = 'RWTzXTWKLLKfM3fRQW0CUwSN17U3YMsVcVdfi3ERraxuttv2tL8dsdUE'
 refresh_delay = 72
 [sources.'cs-relays']
-urls = ['https://cryptostorm.is/cs-relays.md', 'https://raw.githubusercontent.com/cryptostorm/cstorm_deepDNS/cs-relays.md']
+urls = ['https://cryptostorm.is/cs-relays.md', 'https://raw.githubusercontent.com/cryptostorm/cstorm_deepDNS/master/cs-relays.md']
 cache_file = 'cs-relays.md'
 minisign_key = 'RWTzXTWKLLKfM3fRQW0CUwSN17U3YMsVcVdfi3ERraxuttv2tL8dsdUE'
 prefix = ''
