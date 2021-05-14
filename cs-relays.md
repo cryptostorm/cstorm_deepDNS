@@ -134,7 +134,7 @@ sdns://gRExODUuMTA3LjgwLjg0OjQ0Mw
 
 Netherlands 2 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIyMTMuMTYzLjY0LjIwODo0NDM
+sdns://gREzMS4yMDQuMTUyLjQ4OjQ0Mw
 
 
 ## anon-cs-de

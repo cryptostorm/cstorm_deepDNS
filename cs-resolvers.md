@@ -136,7 +136,7 @@ sdns://AQYAAAAAAAAAETE4NS4xMDcuODAuODQ6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZC
 
 Netherlands 2 DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEjIxMy4xNjMuNjQuMjA4OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQYAAAAAAAAAETMxLjIwNC4xNTIuNDg6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-de
