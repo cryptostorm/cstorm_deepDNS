@@ -248,6 +248,17 @@ South Korea Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRAyNy4yNTUuNzcuNTY6NDQz
 
+## anon-cs-sydney
+
+Sydney, Australia Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRIzNy4xMjAuMjM0LjI1MTo0NDM
+
+## anon-cs-tokyo
+
+Tokyo, Japan Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRAxNDYuNzAuMzEuNDM6NDQz
 
 ## anon-cs-montreal
 
@@ -338,5 +349,4 @@ sdns://gRExMDQuMjU1LjE3NS4yOjQ0Mw
 US - Washington, DC Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRAxOTguNy41OC4yMjc6NDQz
-
 
