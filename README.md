@@ -7,7 +7,7 @@ All of our DeepDNS servers also act as regular public DNS servers.
 This is mostly so our users can protect their DNS when they're connecting to cryptostorm, but it's also for anyone else who wants to use DNS servers that don't log their activities.   
 
 2021 update:   
-It looks like DNSChain hasn't been updated in several years, so we're dropping support for that (and .bit, .eth, .dns, etc.). The below text has been updated to reflect the current DeepDNS setup.
+It looks like DNSChain hasn't been updated in several years, so we're dropping support for that (and .bit, .eth, .dns, etc.). The below text has been updated to reflect the current DeepDNS setup. <b><i>We do still support transparent .onion and .i2p</i></b>, dropping DNSChain support only means no more .bit/.eth/.dns.
 
 If you're looking for the current DeepDNS IPs, you can find them by resolving "public.deepdns.net", or by going to https://cryptostorm.is/dns.txt
 
