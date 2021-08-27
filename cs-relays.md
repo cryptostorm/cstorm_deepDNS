@@ -246,7 +246,8 @@ sdns://gRMxNzguMTc1LjEzOS4yMTE6NDQz
 
 South Korea Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAyNy4yNTUuNzcuNTY6NDQz
+sdns://gREyNy4yNTUuNzUuMjI3OjQ0Mw
+
 
 ## anon-cs-sydney
 
@@ -254,11 +255,13 @@ Sydney, Australia Anonymized DNS relay server provided by https://cryptostorm.is
 
 sdns://gRIzNy4xMjAuMjM0LjI1MTo0NDM
 
+
 ## anon-cs-tokyo
 
 Tokyo, Japan Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRAxNDYuNzAuMzEuNDM6NDQz
+
 
 ## anon-cs-montreal
 
@@ -267,11 +270,18 @@ Montreal, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIxNjcuMTE0Ljg0LjEzMjo0NDM
 
 
+## anon-cs-montreal2
+
+Montreal, Canada 2 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRMxNDQuMTY4LjE2NS4xNjM6NDQz
+
+
 ## anon-cs-vancouver
 
 Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRMxNjIuMjIxLjIwNy4yMjg6NDQz
+sdns://gRA3MS4xOS4yNTEuMzQ6NDQz
 
 
 ## anon-cs-nyc1
@@ -295,6 +305,13 @@ US - Chicago, IL Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIxNzMuMjM0LjU2LjExNTo0NDM
 
 
+## anon-cs-il2
+
+US - Chicago, IL 2 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRIxNzIuMTA3LjE5OS4xOTo0NDM
+
+
 ## anon-cs-nc
 
 US - North Carolina Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -314,6 +331,20 @@ sdns://gRE2NC40Mi4xODEuMjI3OjQ0Mw
 US - Dallas, TX Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gREyMDkuNTguMTQ3LjM2OjQ0Mw
+
+
+## anon-cs-tx2
+
+US - Dallas, TX 2 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gQ80NS4zNS4zNS45OTo0NDM
+
+
+## anon-cs-tx3
+
+US - Dallas, TX 3 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gQ80NS4zNS43Mi40Mzo0NDM
 
 
 ## anon-cs-la
@@ -349,4 +380,5 @@ sdns://gRExMDQuMjU1LjE3NS4yOjQ0Mw
 US - Washington, DC Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRAxOTguNy41OC4yMjc6NDQz
+
 

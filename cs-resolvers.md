@@ -248,7 +248,7 @@ sdns://AQYAAAAAAAAAEzE3OC4xNzUuMTM5LjIxMTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aT
 
 South Korea DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEDI3LjI1NS43Ny41Njo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+sdns://AQYAAAAAAAAAETI3LjI1NS43NS4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-sydney
@@ -272,11 +272,18 @@ Montreal, Canada DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAEjE2Ny4xMTQuODQuMTMyOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
+## cs-montreal2
+
+Montreal, Canada 2 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEzE0NC4xNjguMTY1LjE2Mzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
 ## cs-vancouver
 
 Vancouver, Canada DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEzE2Mi4yMjEuMjA3LjIyODo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+sdns://AQYAAAAAAAAAEDcxLjE5LjI1MS4zNDo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-nyc1
@@ -300,6 +307,13 @@ US - Chicago, IL DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAEjE3My4yMzQuNTYuMTE1OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
+## cs-il2
+
+US - Chicago, IL 2 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjE3Mi4xMDcuMTk5LjE5OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
 ## cs-nc
 
 US - North Carolina DNSCrypt server provided by https://cryptostorm.is/
@@ -319,6 +333,20 @@ sdns://AQYAAAAAAAAAETY0LjQyLjE4MS4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZC
 US - Dallas, TX DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAAETIwOS41OC4xNDcuMzY6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-tx2
+
+US - Dallas, TX 2 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAADzQ1LjM1LjM1Ljk5OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-tx3
+
+US - Dallas, TX 3 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAADzQ1LjM1LjcyLjQzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-la
@@ -354,4 +382,5 @@ sdns://AQYAAAAAAAAAETEwNC4yNTUuMTc1LjI6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZC
 US - Washington, DC DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAAEDE5OC43LjU4LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
 
