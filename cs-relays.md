@@ -382,3 +382,17 @@ US - Washington, DC Anonymized DNS relay server provided by https://cryptostorm.
 sdns://gRAxOTguNy41OC4yMjc6NDQz
 
 
+## anon-cs-fl
+
+US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRAyMy4xOS4xMTcuNTU6NDQz
+
+
+## anon-cs-fl2
+
+US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRAyMy4xOS4xMTcuNTE6NDQz
+
+

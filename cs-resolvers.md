@@ -384,3 +384,17 @@ US - Washington, DC DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAEDE5OC43LjU4LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
+## cs-fl
+
+US - Miami, FL DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEDIzLjE5LjExNy41NTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-fl2
+
+US - Miami, FL 2 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEDIzLjE5LjExNy41MTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
