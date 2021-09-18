@@ -7,7 +7,7 @@ Email support@cryptostorm.is if you're having any issues with these servers.
 To use this list, add this to the `[sources]` section of your `dnscrypt-proxy.toml` config:
 
     [sources.'cs-resolvers']
-    urls = ['https://raw.githubusercontent.com/cryptostorm/cstorm_deepDNS/cs-resolvers.md', 'https://cryptostorm.is/cs-resolvers.md']
+    urls = ['https://raw.githubusercontent.com/cryptostorm/cstorm_deepDNS/master/cs-resolvers.md', 'https://cryptostorm.is/cs-resolvers.md']
     cache_file = 'cs-resolvers.md'
     minisign_key = 'RWTPxKslJjY80pRxF0M9vScVdVMnISO6Enh96KqICIRF/B2qAIwi9vdn'
     prefix = ''
