@@ -263,6 +263,13 @@ Tokyo, Japan Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRAxNDYuNzAuMzEuNDM6NDQz
 
 
+## anon-cs-brazil
+
+Brazil Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRIxNzcuNTQuMTQ1LjEzMTo0NDM
+
+
 ## anon-cs-montreal
 
 Montreal, Canada Anonymized DNS relay server provided by https://cryptostorm.is/

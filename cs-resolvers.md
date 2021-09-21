@@ -7,7 +7,7 @@ Email support@cryptostorm.is if you're having any issues with these servers.
 To use this list, add this to the `[sources]` section of your `dnscrypt-proxy.toml` config:
 
     [sources.'cs-resolvers']
-    urls = ['https://raw.githubusercontent.com/cryptostorm/cstorm_deepDNS/cs-resolvers.md', 'https://cryptostorm.is/cs-resolvers.md']
+    urls = ['https://raw.githubusercontent.com/cryptostorm/cstorm_deepDNS/master/cs-resolvers.md', 'https://cryptostorm.is/cs-resolvers.md']
     cache_file = 'cs-resolvers.md'
     minisign_key = 'RWTPxKslJjY80pRxF0M9vScVdVMnISO6Enh96KqICIRF/B2qAIwi9vdn'
     prefix = ''
@@ -263,6 +263,13 @@ sdns://AQYAAAAAAAAAEjM3LjEyMC4yMzQuMjUxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPG
 Tokyo, Japan DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAAEDE0Ni43MC4zMS40Mzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-brazil
+
+Sao Paulo, Brazil DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEjE3Ny41NC4xNDUuMTMxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-montreal
