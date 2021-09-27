@@ -242,6 +242,13 @@ Moldova Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRMxNzguMTc1LjEzOS4yMTE6NDQz
 
 
+## anon-cs-md2
+
+Moldova 2 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRIxNzguMTc1LjEyOS4xNjo0NDM
+
+
 ## anon-cs-sk
 
 South Korea Anonymized DNS relay server provided by https://cryptostorm.is/
