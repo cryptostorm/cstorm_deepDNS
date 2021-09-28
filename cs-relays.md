@@ -277,6 +277,13 @@ Brazil Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIxNzcuNTQuMTQ1LjEzMTo0NDM
 
 
+## anon-cs-mexico
+
+Mexico Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRExMDMuMTQuMjYuMTkwOjQ0Mw
+
+
 ## anon-cs-montreal
 
 Montreal, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
