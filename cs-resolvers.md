@@ -248,7 +248,7 @@ sdns://AQYAAAAAAAAAEzE3OC4xNzUuMTM5LjIxMTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aT
 
 Moldova 2 DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://Asdns://AQYAAAAAAAAAEjE3OC4xNzUuMTI5LjE2OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQYAAAAAAAAAEjE3OC4xNzUuMTI5LjE2OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-sk
