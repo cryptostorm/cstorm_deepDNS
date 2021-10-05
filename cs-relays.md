@@ -15,7 +15,7 @@ https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
 France Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gREyMTIuMTI5LjQ2LjMyOjQ0Mw
+sdns://gRExNjMuMTcyLjM0LjU2OjQ0Mw
 
 
 ## anon-cs-ireland
