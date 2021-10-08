@@ -339,7 +339,7 @@ sdns://AQYAAAAAAAAAEjE3Mi4xMDcuMTk5LjE5OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPG
 
 US - North Carolina DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEjE1NS4yNTQuMjkuMTEzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQYAAAAAAAAAEjE1NS4yNTQuMjEuMjUwOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-ga

@@ -337,7 +337,7 @@ sdns://gRIxNzIuMTA3LjE5OS4xOTo0NDM
 
 US - North Carolina Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxNTUuMjU0LjI5LjExMzo0NDM
+sdns://gRIxNTUuMjU0LjIxLjI1MDo0NDM
 
 
 ## anon-cs-ga
