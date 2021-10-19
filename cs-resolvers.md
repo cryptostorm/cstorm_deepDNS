@@ -227,7 +227,7 @@ sdns://AQYAAAAAAAAAETEwOS43MS40Mi4yMjg6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZC
 
 Romania DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://Asdns://AQYAAAAAAAAAETE0Ni43MC42Ni4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQYAAAAAAAAAETE0Ni43MC42Ni4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-lv
