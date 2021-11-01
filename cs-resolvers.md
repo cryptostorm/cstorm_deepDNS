@@ -20,6 +20,13 @@ France DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAETE2My4xNzIuMzQuNTY6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
+## cs-free
+
+France DNSCrypt server, running on our free server, provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETE5NS4xNTQuNDAuNDg6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
 ## cs-ireland
 
 Dublin, Ireland DNSCrypt server provided by https://cryptostorm.is/

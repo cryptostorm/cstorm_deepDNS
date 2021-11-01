@@ -18,6 +18,13 @@ France Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRExNjMuMTcyLjM0LjU2OjQ0Mw
 
 
+## anon-cs-free
+
+France Anonymized DNS relay server, running on our free server, provided by https://cryptostorm.is/
+
+sdns://gRExOTUuMTU0LjQwLjQ4OjQ0Mw
+
+
 ## anon-cs-ireland
 
 Dublin, Ireland Anonymized DNS relay server provided by https://cryptostorm.is/
