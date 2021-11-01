@@ -218,7 +218,7 @@ sdns://gQ84MS4xNy4zMS4zNDo0NDM
 
 Portugal Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRExMDkuNzEuNDIuMjI4OjQ0Mw
+sdns://gRI5MS4yMDUuMjMwLjIyNDo0NDM
 
 
 ## anon-cs-ro
