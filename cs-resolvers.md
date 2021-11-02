@@ -27,6 +27,13 @@ France DNSCrypt server, running on our free server, provided by https://cryptost
 sdns://AQYAAAAAAAAAETE5NS4xNTQuNDAuNDg6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
+## cs-india
+
+India DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAEzE2NS4yMzEuMjUzLjE2Mzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
 ## cs-ireland
 
 Dublin, Ireland DNSCrypt server provided by https://cryptostorm.is/
