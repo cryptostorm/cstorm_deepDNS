@@ -151,11 +151,18 @@ Netherlands 2 Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gREzMS4yMDQuMTUyLjQ4OjQ0Mw
 
 
+## anon-cs-berlin
+
+Berlin, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gREzNy4xMjAuMjE3Ljc1OjQ0Mw
+
+
 ## anon-cs-de
 
 Frankfurt, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRA4NC4xNi4yNDAuNDM6NDQz
+sdns://gQ8xNDYuNzAuODIuMzo0NDM
 
 
 ## anon-cs-dus1
