@@ -15,419 +15,419 @@ https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Anonymized-DNS
 
 France Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRExNjMuMTcyLjM0LjU2OjQ0Mw
+sdns://gQ0xNjMuMTcyLjM0LjU2
 
 
 ## anon-cs-free
 
 France Anonymized DNS relay server, running on our free server, provided by https://cryptostorm.is/
 
-sdns://gRExOTUuMTU0LjQwLjQ4OjQ0Mw
+sdns://gQ0xOTUuMTU0LjQwLjQ4
 
 
 ## anon-cs-india
 
 India Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRMxNjUuMjMxLjI1My4xNjM6NDQz
+sdns://gQ8xNjUuMjMxLjI1My4xNjM
 
 
 ## anon-cs-ireland
 
 Dublin, Ireland Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIzNy4xMjAuMjM1LjE4Nzo0NDM
+sdns://gQ4zNy4xMjAuMjM1LjE4Nw
 
 
 ## anon-cs-finland
 
 Finland Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxODUuMTE3LjExOC4yMDo0NDM
+sdns://gQ4xODUuMTE3LjExOC4yMA
 
 
 ## anon-cs-poland
 
 Warsaw, Poland Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gREzNy4xMjAuMjExLjkxOjQ0Mw
+sdns://gQ0zNy4xMjAuMjExLjkx
 
 
 ## anon-cs-hungary
 
 Budapest, Hungary Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRE4Ni4xMDYuNzQuMjE5OjQ0Mw
+sdns://gQ04Ni4xMDYuNzQuMjE5
 
 
 ## anon-cs-bulgaria
 
 Sofia, Bulgaria Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIzNy4xMjAuMTUyLjIzNTo0NDM
+sdns://gQ4zNy4xMjAuMTUyLjIzNQ
 
 
 ## anon-cs-czech
 
 Prague, Czech Republic Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRMyMTcuMTM4LjIyMC4yNDM6NDQz
+sdns://gQ8yMTcuMTM4LjIyMC4yNDM
 
 
 ## anon-cs-austria
 
 Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRE5NC4xOTguNDEuMjM1OjQ0Mw
+sdns://gQ05NC4xOTguNDEuMjM1
 
 
 ## anon-cs-milan
 
 Milan, Italy Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRMyMTcuMTM4LjIxOS4yMTk6NDQz
+sdns://gQ8yMTcuMTM4LjIxOS4yMTk
 
 
 ## anon-cs-rome
 
 Rome, Italy Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIzNy4xMjAuMjA3LjEzMTo0NDM
+sdns://gQ4zNy4xMjAuMjA3LjEzMQ
 
 
 ## anon-cs-madrid
 
 Madrid, Spain Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxODUuMTgzLjEwNi44Mzo0NDM
+sdns://gQ4xODUuMTgzLjEwNi44Mw
 
 
 ## anon-cs-barcelona
 
 Barcelona, Spain Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIzNy4xMjAuMTQyLjExNTo0NDM
+sdns://gQ4zNy4xMjAuMTQyLjExNQ
 
 
 ## anon-cs-belgium
 
 Brussels, Belgium Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gREzNy4xMjAuMjM2LjExOjQ0Mw
+sdns://gQ0zNy4xMjAuMjM2LjEx
 
 
 ## anon-cs-norway
 
 Oslo, Norway Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRI5MS4yMTkuMjE1LjIyNzo0NDM
+sdns://gQ45MS4yMTkuMjE1LjIyNw
 
 
 ## anon-cs-serbia
 
 Belgrade, Serbia Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIzNy4xMjAuMTkzLjIxOTo0NDM
+sdns://gQ4zNy4xMjAuMTkzLjIxOQ
 
 
 ## anon-cs-slovakia
 
 Bratislava, Slovakia Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxOTMuMzcuMjU1LjIyNzo0NDM
+sdns://gQ4xOTMuMzcuMjU1LjIyNw
 
 
 ## anon-cs-nl
 
 Netherlands Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRExODUuMTA3LjgwLjg0OjQ0Mw
+sdns://gQ0xODUuMTA3LjgwLjg0
 
 
 ## anon-cs-nl2
 
 Netherlands 2 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRMxNzIuMTA3LjIyNi4xMDc6NDQz
+sdns://gQ8xNzIuMTA3LjIyNi4xMDc
 
 
 ## anon-cs-berlin
 
 Berlin, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gREzNy4xMjAuMjE3Ljc1OjQ0Mw
+sdns://gQ0zNy4xMjAuMjE3Ljc1
 
 
 ## anon-cs-de
 
 Frankfurt, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ8xNDYuNzAuODIuMzo0NDM
+sdns://gQsxNDYuNzAuODIuMw
 
 
 ## anon-cs-dus1
 
 Dusseldorf, Germany 1 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIyMTMuMjAyLjIxNi4xMjo0NDM
+sdns://gQ4yMTMuMjAyLjIxNi4xMg
 
 
 ## anon-cs-dus2
 
 Dusseldorf, Germany 2 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRMyMTMuMjAyLjIxNi4yMzY6NDQz
+sdns://gQ8yMTMuMjAyLjIxNi4yMzY
 
 
 ## anon-cs-dus3
 
 Dusseldorf, Germany 3 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRI4OS4xNjMuMjIxLjE4MTo0NDM
+sdns://gQ44OS4xNjMuMjIxLjE4MQ
 
 
 ## anon-cs-dus4
 
 Dusseldorf, Germany 4 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRI4NS4xMTQuMTM4LjExOTo0NDM
+sdns://gQ44NS4xMTQuMTM4LjExOQ
 
 
 ## anon-cs-manchester
 
 Manchester, England Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRExOTUuMTIuNDguMTcxOjQ0Mw
+sdns://gQ0xOTUuMTIuNDguMTcx
 
 
 ## anon-cs-london
 
 London, England Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRE3OC4xMjkuMTQwLjY1OjQ0Mw
+sdns://gQ03OC4xMjkuMTQwLjY1
 
 
 ## anon-cs-is
 
 Iceland Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRE4Mi4yMjEuMTI4LjQ0OjQ0Mw
+sdns://gQ04Mi4yMjEuMTI4LjQ0
 
 
 ## anon-cs-swe
 
 Sweden Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRMxMjguMTI3LjEwNC4xMDg6NDQz
+sdns://gQ8xMjguMTI3LjEwNC4xMDg
 
 
 ## anon-cs-dk
 
 Denmark Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gREzNy4xMjAuMjMyLjQzOjQ0Mw
+sdns://gQ0zNy4xMjAuMjMyLjQz
 
 
 ## anon-cs-ch
 
 Switzerland Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ84MS4xNy4zMS4zNDo0NDM
+sdns://gQs4MS4xNy4zMS4zNA
 
 
 ## anon-cs-pt
 
 Portugal Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRI5MS4yMDUuMjMwLjIyNDo0NDM
+sdns://gQ45MS4yMDUuMjMwLjIyNA
 
 
 ## anon-cs-ro
 
 Romania Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRExNDYuNzAuNjYuMjI3OjQ0Mw
+sdns://gQ0xNDYuNzAuNjYuMjI3
 
 
 ## anon-cs-lv
 
 Latvia Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRMxMDkuMjQ4LjE0OS4xMzM6NDQz
+sdns://gQ8xMDkuMjQ4LjE0OS4xMzM
 
 
 ## anon-cs-md
 
 Moldova Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxNzguMTc1LjEyOS4xNjo0NDM
+sdns://gQ4xNzguMTc1LjEyOS4xNg
 
 
 ## anon-cs-sk
 
 South Korea Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gREyNy4yNTUuNzUuMjI3OjQ0Mw
+sdns://gQ8xNzIuMTA3LjE1NC4yMTE
 
 
 ## anon-cs-sydney
 
 Sydney, Australia Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIzNy4xMjAuMjM0LjI1MTo0NDM
+sdns://gQ4zNy4xMjAuMjM0LjI1MQ
 
 
 ## anon-cs-tokyo
 
 Tokyo, Japan Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAxNDYuNzAuMzEuNDM6NDQz
+sdns://gQwxNDYuNzAuMzEuNDM
 
 
 ## anon-cs-brazil
 
 Brazil Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxNzcuNTQuMTQ1LjEzMTo0NDM
+sdns://gQ4xNzcuNTQuMTQ1LjEzMQ
 
 
 ## anon-cs-mexico
 
 Mexico Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRExMDMuMTQuMjYuMTkwOjQ0Mw
+sdns://gQ0xMDMuMTQuMjYuMTkw
 
 
 ## anon-cs-montreal
 
 Montreal, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxNjcuMTE0Ljg0LjEzMjo0NDM
+sdns://gQ4xNjcuMTE0Ljg0LjEzMg
 
 
 ## anon-cs-montreal2
 
 Montreal, Canada 2 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRMxNDQuMTY4LjE2NS4xNjM6NDQz
+sdns://gQ8xNDQuMTY4LjE2NS4xNjM
 
 
 ## anon-cs-vancouver
 
 Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRA3MS4xOS4yNTEuMzQ6NDQz
+sdns://gQw3MS4xOS4yNTEuMzQ
 
 
 ## anon-cs-nyc1
 
 US - New York City, NY 1 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAyMy4xOS4yNDUuODg6NDQz
+sdns://gQwyMy4xOS4yNDUuODg
 
 
 ## anon-cs-nyc2
 
 US - New York City, NY 2 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAyMy4xOS4yNDUuODQ6NDQz
+sdns://gQwyMy4xOS4yNDUuODQ
 
 
 ## anon-cs-il
 
 US - Chicago, IL Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxNzMuMjM0LjU2LjExNTo0NDM
+sdns://gQ4xNzMuMjM0LjU2LjExNQ
 
 
 ## anon-cs-il2
 
 US - Chicago, IL 2 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxNzIuMTA3LjE5OS4xOTo0NDM
+sdns://gQ4xNzIuMTA3LjE5OS4xOQ
 
 
 ## anon-cs-nc
 
 US - North Carolina Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxNTUuMjU0LjIxLjI1MDo0NDM
+sdns://gQ4xNTUuMjU0LjIxLjI1MA
 
 
 ## anon-cs-ga
 
 US - Atlanta, GA Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRE2NC40Mi4xODEuMjI3OjQ0Mw
+sdns://gQ02NC40Mi4xODEuMjI3
 
 
 ## anon-cs-tx
 
 US - Dallas, TX Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gREyMDkuNTguMTQ3LjM2OjQ0Mw
+sdns://gQ0yMDkuNTguMTQ3LjM2
 
 
 ## anon-cs-tx2
 
 US - Dallas, TX 2 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ80NS4zNS4zNS45OTo0NDM
+sdns://gQs0NS4zNS4zNS45OQ
 
 
 ## anon-cs-tx3
 
 US - Dallas, TX 3 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ80NS4zNS43Mi40Mzo0NDM
+sdns://gQs0NS4zNS43Mi40Mw
 
 
 ## anon-cs-la
 
 US - Los Angeles, CA Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAyMy4xOS42Ny4xMTY6NDQz
+sdns://gQwyMy4xOS42Ny4xMTY
 
 
 ## anon-cs-sea
 
 US - Seattle, WA Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRA2NC4xMjAuNS4yNTE6NDQz
+sdns://gQw2NC4xMjAuNS4yNTE
 
 
 ## anon-cs-nv
 
 US - Las Vegas, NV Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAzNy4xMjAuMTQ3LjI6NDQz
+sdns://gQwzNy4xMjAuMTQ3LjI
 
 
 ## anon-cs-ore
 
 US - Oregon Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRExMDQuMjU1LjE3NS4yOjQ0Mw
+sdns://gQ0xMDQuMjU1LjE3NS4y
 
 
 ## anon-cs-dc
 
 US - Washington, DC Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAxOTguNy41OC4yMjc6NDQz
+sdns://gQwxOTguNy41OC4yMjc
 
 
 ## anon-cs-fl
 
 US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAyMy4xOS4xMTcuNTU6NDQz
+sdns://gQwyMy4xOS4xMTcuNTU
 
 
 ## anon-cs-fl2
 
 US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAyMy4xOS4xMTcuNTE6NDQz
+sdns://gQwyMy4xOS4xMTcuNTE
 
 
