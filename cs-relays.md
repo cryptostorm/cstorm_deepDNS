@@ -249,13 +249,6 @@ Romania Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ0xNDYuNzAuNjYuMjI3
 
 
-## anon-cs-lv
-
-Latvia Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ8xMDkuMjQ4LjE0OS4xMzM
-
-
 ## anon-cs-md
 
 Moldova Anonymized DNS relay server provided by https://cryptostorm.is/
