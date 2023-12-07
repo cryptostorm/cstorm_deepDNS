@@ -260,7 +260,7 @@ sdns://gQ4xNzguMTc1LjEyOS4xNg
 
 South Korea Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ8xNzIuMTA3LjE1NC4yMTE
+sdns://gQ4xMDguMTgxLjUwLjIxOA
 
 
 ## anon-cs-sydney
