@@ -298,13 +298,6 @@ Montreal, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ4xNjcuMTE0Ljg0LjEzMg
 
 
-## anon-cs-montreal2
-
-Montreal, Canada 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ8xNDQuMTY4LjE2NS4xNjM
-
-
 ## anon-cs-vancouver
 
 Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
