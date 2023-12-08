@@ -225,7 +225,7 @@ sdns://gQ0zNy4xMjAuMjMyLjQz
 
 Switzerland Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQs4MS4xNy4zMS4zNA
+sdns://gRMxOTAuMjExLjI1NS4yMjc6NDQz
 
 
 ## anon-cs-pt
