@@ -358,7 +358,7 @@ sdns://gQ0yMDkuNTguMTQ3LjM2
 
 US - Dallas, TX 2 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQs0NS4zNS4zNS45OQ
+sdns://gRIxMDguMTgxLjEwMS4yNzo0NDM
 
 
 ## anon-cs-tx3
