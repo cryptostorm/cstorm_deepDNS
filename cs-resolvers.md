@@ -367,7 +367,7 @@ sdns://AQYAAAAAAAAAEjEwOC4xODEuMTAxLjI3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPG
 
 US - Dallas, TX 3 DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAACzQ1LjM1LjcyLjQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQYAAAAAAAAAEjEwOC4xODEuMTAxLjY3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-la
