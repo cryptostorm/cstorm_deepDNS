@@ -209,13 +209,6 @@ London, England DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQIAAAAAAAAADTc4LjEyOS4xNDAuNjUgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-is
-
-Iceland DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADTgyLjIyMS4xMjguNDQgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
 ## cs-swe
 
 Sweden DNSCrypt server provided by https://cryptostorm.is/

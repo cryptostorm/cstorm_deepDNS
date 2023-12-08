@@ -207,13 +207,6 @@ London, England Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gQ03OC4xMjkuMTQwLjY1
 
 
-## anon-cs-is
-
-Iceland Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gQ04Mi4yMjEuMTI4LjQ0
-
-
 ## anon-cs-swe
 
 Sweden Anonymized DNS relay server provided by https://cryptostorm.is/
