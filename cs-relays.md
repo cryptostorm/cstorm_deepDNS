@@ -148,7 +148,7 @@ sdns://gQ0xODUuMTA3LjgwLjg0
 
 Netherlands 2 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ8xNzIuMTA3LjIyNi4xMDc
+sdns://gRIxMDguMTgxLjEyNC4yNzo0NDM
 
 
 ## anon-cs-berlin
@@ -337,7 +337,7 @@ sdns://gQ4xNTUuMjU0LjIxLjI1MA
 
 US - Atlanta, GA Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ02NC40Mi4xODEuMjI3
+sdns://gRE2NC40Mi4xODEuMjI3OjQ0Mw
 
 
 ## anon-cs-tx
