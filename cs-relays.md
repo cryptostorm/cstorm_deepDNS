@@ -316,7 +316,7 @@ sdns://gQwyMy4xOS4yNDUuODQ
 
 US - Chicago, IL Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4xNzMuMjM0LjU2LjExNQ
+sdns://gRIxNzMuMjM0LjU2LjExNTo0NDM
 
 
 ## anon-cs-il2

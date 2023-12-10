@@ -325,7 +325,7 @@ sdns://AQIAAAAAAAAADDIzLjE5LjI0NS44NCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupW
 
 US - Chicago, IL DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADjE3My4yMzQuNTYuMTE1IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQYAAAAAAAAAEjE3My4yMzQuNTYuMTE1OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-il2
