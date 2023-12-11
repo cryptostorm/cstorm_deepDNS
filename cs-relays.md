@@ -204,7 +204,7 @@ sdns://gQ0xOTUuMTIuNDguMTcx
 
 London, England Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ03OC4xMjkuMTQwLjY1
+sdns://gRE3OC4xMjkuMTQwLjY1OjQ0Mw
 
 
 ## anon-cs-swe
