@@ -228,6 +228,13 @@ Switzerland Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRMxOTAuMjExLjI1NS4yMjc6NDQz
 
 
+## anon-cs-ch2
+
+Switzerland 2 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRExNDYuNzAuMTM1LjU5OjQ0Mw
+
+
 ## anon-cs-pt
 
 Portugal Anonymized DNS relay server provided by https://cryptostorm.is/

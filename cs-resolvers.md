@@ -230,6 +230,13 @@ Switzerland DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAEzE5MC4yMTEuMjU1LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
+## cs-ch2
+
+Switzerland 2 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETE0Ni43MC4xMzUuNTk6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
 ## cs-pt
 
 Portugal DNSCrypt server provided by https://cryptostorm.is/
