@@ -374,7 +374,7 @@ sdns://AQYAAAAAAAAAEjEwOC4xODEuMTAxLjY3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPG
 
 US - Los Angeles, CA DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADDIzLjE5LjY3LjExNiAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQYAAAAAAAAAEzE5NS4yMDYuMTA0LjIwMzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-sea

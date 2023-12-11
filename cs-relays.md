@@ -365,7 +365,7 @@ sdns://gRIxMDguMTgxLjEwMS42Nzo0NDM
 
 US - Los Angeles, CA Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQwyMy4xOS42Ny4xMTY
+sdns://gRMxOTUuMjA2LjEwNC4yMDM6NDQz
 
 
 ## anon-cs-sea
