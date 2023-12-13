@@ -400,7 +400,7 @@ sdns://gQwxOTguNy41OC4yMjc
 
 US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQwyMy4xOS4xMTcuNTU
+sdns://gRAyMy4xOS4xMTcuNTU6NDQz
 
 
 ## anon-cs-fl2
