@@ -295,7 +295,7 @@ sdns://gQ4xNjcuMTE0Ljg0LjEzMg
 
 Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQw3MS4xOS4yNTEuMzQ
+sdns://gRA3MS4xOS4yNTEuMzQ6NDQz
 
 
 ## anon-cs-nyc1
