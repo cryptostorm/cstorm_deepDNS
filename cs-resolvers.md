@@ -416,6 +416,6 @@ sdns://AQYAAAAAAAAAEDIzLjE5LjExNy41NTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZ
 
 US - Miami, FL 2 DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADDIzLjE5LjExNy41MSAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQYAAAAAAAAAEDIzLjE5LjExNy41MTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
