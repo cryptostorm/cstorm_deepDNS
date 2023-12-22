@@ -106,7 +106,7 @@ sdns://gQ4zNy4xMjAuMTQyLjExNQ
 
 Brussels, Belgium Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ0zNy4xMjAuMjM2LjEx
+sdns://gREzNy4xMjAuMjM2LjExOjQ0Mw
 
 
 ## anon-cs-norway
