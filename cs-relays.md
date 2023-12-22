@@ -99,7 +99,7 @@ sdns://gQ4xODUuMTgzLjEwNi44Mw
 
 Barcelona, Spain Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4zNy4xMjAuMTQyLjExNQ
+sdns://gRIzNy4xMjAuMTQyLjExNTo0NDM
 
 
 ## anon-cs-belgium
