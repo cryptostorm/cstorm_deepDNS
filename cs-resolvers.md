@@ -234,7 +234,7 @@ sdns://AQYAAAAAAAAAETE0Ni43MC4xMzUuNTk6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZC
 
 Portugal DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADjkxLjIwNS4yMzAuMjI0IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQYAAAAAAAAAEjkxLjIwNS4yMzAuMjI0OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-ro
