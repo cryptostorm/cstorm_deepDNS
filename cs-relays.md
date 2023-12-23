@@ -190,7 +190,7 @@ sdns://gRI4NS4xMTQuMTM4LjExOTo0NDM
 
 Manchester, England Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ0xOTUuMTIuNDguMTcx
+sdns://gRExOTUuMTIuNDguMTcxOjQ0Mw
 
 
 ## anon-cs-london
