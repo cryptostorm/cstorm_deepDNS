@@ -57,7 +57,7 @@ sdns://gQ04Ni4xMDYuNzQuMjE5
 
 Sofia, Bulgaria Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4zNy4xMjAuMTUyLjIzNQ
+sdns://gRIzNy4xMjAuMTUyLjIzNTo0NDM
 
 
 ## anon-cs-czech
