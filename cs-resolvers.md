@@ -150,7 +150,7 @@ sdns://AQIAAAAAAAAADjEwOC4xODEuMTI0LjI3IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw2
 
 Berlin, Germany DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADTM3LjEyMC4yMTcuNzUgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+sdns://AQYAAAAAAAAAETM3LjEyMC4yMTcuNzU6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-de

@@ -148,7 +148,7 @@ sdns://gRIxMDguMTgxLjEyNC4yNzo0NDM
 
 Berlin, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ0zNy4xMjAuMjE3Ljc1
+sdns://gREzNy4xMjAuMjE3Ljc1OjQ0Mw
 
 
 ## anon-cs-de
