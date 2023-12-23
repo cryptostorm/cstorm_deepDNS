@@ -71,7 +71,7 @@ sdns://gQ8yMTcuMTM4LjIyMC4yNDM
 
 Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ05NC4xOTguNDEuMjM1
+sdns://gRE5NC4xOTguNDEuMjM1OjQ0Mw
 
 
 ## anon-cs-milan
