@@ -162,7 +162,7 @@ sdns://gQsxNDYuNzAuODIuMw
 
 Dusseldorf, Germany 1 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4yMTMuMjAyLjIxNi4xMg
+sdns://gRIyMTMuMjAyLjIxNi4xMjo0NDM
 
 
 ## anon-cs-dus2
