@@ -36,7 +36,7 @@ sdns://gRIzNy4xMjAuMjM1LjE4Nzo0NDM
 
 Finland Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4xODUuMTE3LjExOC4yMA
+sdns://gRIxODUuMTE3LjExOC4yMDo0NDM
 
 
 ## anon-cs-poland
