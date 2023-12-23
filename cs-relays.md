@@ -155,7 +155,7 @@ sdns://gREzNy4xMjAuMjE3Ljc1OjQ0Mw
 
 Frankfurt, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQsxNDYuNzAuODIuMw
+sdns://gQ8xNDYuNzAuODIuMzo0NDM
 
 
 ## anon-cs-dus1

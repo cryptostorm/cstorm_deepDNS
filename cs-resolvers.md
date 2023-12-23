@@ -157,7 +157,7 @@ sdns://AQYAAAAAAAAAETM3LjEyMC4yMTcuNzU6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZC
 
 Frankfurt, Germany DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAACzE0Ni43MC44Mi4zIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQYAAAAAAAAADzE0Ni43MC44Mi4zOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-dus1
