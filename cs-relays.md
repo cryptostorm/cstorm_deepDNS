@@ -64,7 +64,7 @@ sdns://gQ4zNy4xMjAuMTUyLjIzNQ
 
 Prague, Czech Republic Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ8yMTcuMTM4LjIyMC4yNDM
+sdns://gRMyMTcuMTM4LjIyMC4yNDM6NDQz
 
 
 ## anon-cs-austria
