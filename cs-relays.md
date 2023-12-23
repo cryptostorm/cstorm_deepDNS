@@ -183,7 +183,7 @@ sdns://gRI4OS4xNjMuMjIxLjE4MTo0NDM
 
 Dusseldorf, Germany 4 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ44NS4xMTQuMTM4LjExOQ
+sdns://gRI4NS4xMTQuMTM4LjExOTo0NDM
 
 
 ## anon-cs-manchester
