@@ -113,7 +113,7 @@ sdns://gREzNy4xMjAuMjM2LjExOjQ0Mw
 
 Oslo, Norway Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ45MS4yMTkuMjE1LjIyNw
+sdns://gRI5MS4yMTkuMjE1LjIyNzo0NDM
 
 
 ## anon-cs-serbia
