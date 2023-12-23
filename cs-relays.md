@@ -211,7 +211,7 @@ sdns://gQ8xMjguMTI3LjEwNC4xMDg
 
 Denmark Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ0zNy4xMjAuMjMyLjQz
+sdns://gREzNy4xMjAuMjMyLjQzOjQ0Mw
 
 
 ## anon-cs-ch
