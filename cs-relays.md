@@ -29,7 +29,7 @@ sdns://gQ8xNjUuMjMxLjI1My4xNjM
 
 Dublin, Ireland Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4zNy4xMjAuMjM1LjE4Nw
+sdns://gRIzNy4xMjAuMjM1LjE4Nzo0NDM
 
 
 ## anon-cs-finland
