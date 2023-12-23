@@ -120,7 +120,7 @@ sdns://gRI5MS4yMTkuMjE1LjIyNzo0NDM
 
 Belgrade, Serbia Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4zNy4xMjAuMTkzLjIxOQ
+sdns://gRIzNy4xMjAuMTkzLjIxOTo0NDM
 
 
 ## anon-cs-slovakia
