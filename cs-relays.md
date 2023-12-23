@@ -92,7 +92,7 @@ sdns://gQ4zNy4xMjAuMjA3LjEzMQ
 
 Madrid, Spain Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4xODUuMTgzLjEwNi44Mw
+sdns://gRIxODUuMTgzLjEwNi44Mzo0NDM
 
 
 ## anon-cs-barcelona
