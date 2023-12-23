@@ -50,7 +50,7 @@ sdns://gQ0zNy4xMjAuMjExLjkx
 
 Budapest, Hungary Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ04Ni4xMDYuNzQuMjE5
+sdns://gRE4Ni4xMDYuNzQuMjE5OjQ0Mw
 
 
 ## anon-cs-bulgaria
