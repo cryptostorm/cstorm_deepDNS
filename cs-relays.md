@@ -127,7 +127,7 @@ sdns://gQ4zNy4xMjAuMTkzLjIxOQ
 
 Bratislava, Slovakia Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4xOTMuMzcuMjU1LjIyNw
+sdns://gRIxOTMuMzcuMjU1LjIyNzo0NDM
 
 
 ## anon-cs-nl
