@@ -178,7 +178,7 @@ sdns://AQYAAAAAAAAAEzIxMy4yMDIuMjE2LjIzNjo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aT
 
 Dusseldorf, Germany 3 DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADjg5LjE2My4yMjEuMTgxIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQYAAAAAAAAAEjg5LjE2My4yMjEuMTgxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-dus4
