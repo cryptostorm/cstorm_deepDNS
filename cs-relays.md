@@ -43,7 +43,7 @@ sdns://gRIxODUuMTE3LjExOC4yMDo0NDM
 
 Warsaw, Poland Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ0zNy4xMjAuMjExLjkx
+sdns://gREzNy4xMjAuMjExLjkxOjQ0Mw
 
 
 ## anon-cs-hungary
@@ -204,7 +204,7 @@ sdns://gRE3OC4xMjkuMTQwLjY1OjQ0Mw
 
 Sweden Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ8xMjguMTI3LjEwNC4xMDg
+sdns://gRMxMjguMTI3LjEwNC4xMDg6NDQz
 
 
 ## anon-cs-dk

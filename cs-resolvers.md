@@ -45,7 +45,7 @@ sdns://AQYAAAAAAAAAEjE4NS4xMTcuMTE4LjIwOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPG
 
 Warsaw, Poland DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADTM3LjEyMC4yMTEuOTEgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+sdns://AQYAAAAAAAAAETM3LjEyMC4yMTEuOTE6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-hungary
@@ -206,7 +206,7 @@ sdns://AQYAAAAAAAAAETc4LjEyOS4xNDAuNjU6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZC
 
 Sweden DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADzEyOC4xMjcuMTA0LjEwOCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQYAAAAAAAAAEzEyOC4xMjcuMTA0LjEwODo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-dk
