@@ -302,14 +302,14 @@ sdns://gRA3MS4xOS4yNTEuMzQ6NDQz
 
 US - New York City, NY 1 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQwyMy4xOS4yNDUuODg
+sdns://gRAyMy4xOS4yNDUuODg6NDQz
 
 
 ## anon-cs-nyc2
 
 US - New York City, NY 2 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQwyMy4xOS4yNDUuODQ
+sdns://gRAyMy4xOS4yNDUuODQ6NDQz
 
 
 ## anon-cs-il

@@ -311,14 +311,14 @@ sdns://AQYAAAAAAAAAEDcxLjE5LjI1MS4zNDo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZ
 
 US - New York City, NY 1 DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADDIzLjE5LjI0NS44OCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQYAAAAAAAAAEDIzLjE5LjI0NS44ODo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-nyc2
 
 US - New York City, NY 2 DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADDIzLjE5LjI0NS44NCAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQYAAAAAAAAAEDIzLjE5LjI0NS44NDo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-il
