@@ -393,7 +393,7 @@ sdns://gQ0xMDQuMjU1LjE3NS4y
 
 US - Washington, DC Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQwxOTguNy41OC4yMjc
+sdns://gRAxOTguNy41OC4yMjc6NDQz
 
 
 ## anon-cs-fl
