@@ -239,7 +239,7 @@ sdns://gRI5MS4yMDUuMjMwLjIyNDo0NDM
 
 Romania Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ0xNDYuNzAuNjYuMjI3
+sdns://gRExNDYuNzAuNjYuMjI3OjQ0Mw
 
 
 ## anon-cs-md
