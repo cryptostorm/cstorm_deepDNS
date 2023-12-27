@@ -78,14 +78,14 @@ sdns://gRE5NC4xOTguNDEuMjM1OjQ0Mw
 
 Milan, Italy Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ8yMTcuMTM4LjIxOS4yMTk
+sdns://gRMyMTcuMTM4LjIxOS4yMTk6NDQz
 
 
 ## anon-cs-rome
 
 Rome, Italy Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4zNy4xMjAuMjA3LjEzMQ
+sdns://gRIzNy4xMjAuMjA3LjEzMTo0NDM
 
 
 ## anon-cs-madrid
@@ -330,7 +330,7 @@ sdns://gRIxMDguMTgxLjYzLjE2Mzo0NDM
 
 US - North Carolina Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4xNTUuMjU0LjIxLjI1MA
+sdns://gRIxNTUuMjU0LjIxLjI1MDo0NDM
 
 
 ## anon-cs-ga
