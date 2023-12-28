@@ -1,4 +1,4 @@
-# Anonymized DNS relays
+\# Anonymized DNS relays
 
 Anonymized DNS is a lightweight alternative to Tor and SOCKS proxies,
 dedicated to DNS traffic. They hide the client IP address to DNS resolvers,
@@ -22,7 +22,7 @@ sdns://gRExNjMuMTcyLjM0LjU2OjQ0Mw
 
 India Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ8xNjUuMjMxLjI1My4xNjM
+sdns://gRMxNjUuMjMxLjI1My4xNjM6NDQz
 
 
 ## anon-cs-ireland
