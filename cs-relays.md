@@ -267,7 +267,7 @@ sdns://gQ4zNy4xMjAuMjM0LjI1MQ
 
 Tokyo, Japan Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQwxNDYuNzAuMzEuNDM
+sdns://gRAxNDYuNzAuMzEuNDM6NDQz
 
 
 ## anon-cs-brazil
