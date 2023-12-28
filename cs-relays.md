@@ -344,7 +344,7 @@ sdns://gRE2NC40Mi4xODEuMjI3OjQ0Mw
 
 US - Dallas, TX Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ0yMDkuNTguMTQ3LjM2
+sdns://gREyMDkuNTguMTQ3LjM2OjQ0Mw
 
 
 ## anon-cs-tx2
