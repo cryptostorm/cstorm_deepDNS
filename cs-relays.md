@@ -372,7 +372,7 @@ sdns://gRMxOTUuMjA2LjEwNC4yMDM6NDQz
 
 US - Seattle, WA Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQw2NC4xMjAuNS4yNTE
+sdns://gRA2NC4xMjAuNS4yNTE6NDQz
 
 
 ## anon-cs-nv
