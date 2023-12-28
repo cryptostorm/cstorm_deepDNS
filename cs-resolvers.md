@@ -293,6 +293,13 @@ Mexico City, Mexico DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAETEwMy4xNC4yNi4xOTA6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
+## cs-singapore
+
+Singapore DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQYAAAAAAAAAETM3LjEyMC4xNTEuMTE6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
 ## cs-montreal
 
 Montreal, Canada DNSCrypt server provided by https://cryptostorm.is/

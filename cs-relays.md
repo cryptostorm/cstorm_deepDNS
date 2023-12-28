@@ -284,6 +284,13 @@ Mexico Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRExMDMuMTQuMjYuMTkwOjQ0Mw
 
 
+## anon-cs-singapore
+
+Singapore Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gREzNy4xMjAuMTUxLjExOjQ0Mw
+
+
 ## anon-cs-montreal
 
 Montreal, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
