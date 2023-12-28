@@ -379,7 +379,7 @@ sdns://gQw2NC4xMjAuNS4yNTE
 
 US - Las Vegas, NV Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQwzNy4xMjAuMTQ3LjI
+sdns://gRAzNy4xMjAuMTQ3LjI6NDQz
 
 
 ## anon-cs-ore
