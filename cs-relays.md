@@ -281,7 +281,7 @@ sdns://gQ4xNzcuNTQuMTQ1LjEzMQ
 
 Mexico Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ0xMDMuMTQuMjYuMTkw
+sdns://gRExMDMuMTQuMjYuMTkwOjQ0Mw
 
 
 ## anon-cs-montreal
