@@ -246,7 +246,7 @@ sdns://gRExNDYuNzAuNjYuMjI3OjQ0Mw
 
 Moldova Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4xNzguMTc1LjEyOS4xNg
+sdns://gRIxNzguMTc1LjEyOS4xNjo0NDM
 
 
 ## anon-cs-sk
