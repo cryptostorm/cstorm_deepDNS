@@ -260,7 +260,7 @@ sdns://gQ4xMDguMTgxLjUwLjIxOA
 
 Sydney, Australia Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4zNy4xMjAuMjM0LjI1MQ
+sdns://gRIzNy4xMjAuMjM0LjI1MTo0NDM
 
 
 ## anon-cs-tokyo
