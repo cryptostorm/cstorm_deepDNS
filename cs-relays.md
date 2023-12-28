@@ -274,7 +274,7 @@ sdns://gQwxNDYuNzAuMzEuNDM
 
 Brazil Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4xNzcuNTQuMTQ1LjEzMQ
+sdns://gRIxNzcuNTQuMTQ1LjEzMTo0NDM
 
 
 ## anon-cs-mexico
