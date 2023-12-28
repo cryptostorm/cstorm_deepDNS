@@ -386,7 +386,7 @@ sdns://gRAzNy4xMjAuMTQ3LjI6NDQz
 
 US - Oregon Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ0xMDQuMjU1LjE3NS4y
+sdns://gRExMDQuMjU1LjE3NS4yOjQ0Mw
 
 
 ## anon-cs-dc

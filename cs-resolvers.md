@@ -395,7 +395,7 @@ sdns://AQYAAAAAAAAAEDM3LjEyMC4xNDcuMjo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZ
 
 US - Oregon DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADTEwNC4yNTUuMTc1LjIgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+sdns://AQYAAAAAAAAAETEwNC4yNTUuMTc1LjI6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-dc
