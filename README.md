@@ -16,7 +16,7 @@ If you're looking for the current DeepDNS IPs, you can find them by resolving "p
 In the rest of this README, two abbreviations are used for the sake of brevity:   
 
   - CS = <a href="https://cryptostorm.is" target="_blank">cryptostorm</a>
-  - ddns = <a href="https://cryptostorm.org/viewforum.php?f=46" target="_blank">deepDNS</a>
+  - ddns = deepDNS
 
 For CS clients, DNS over ddns normally happens as such:
  * client connects to CS, OpenVPN pushes the exit node's ddns IP to the client, client then uses that for all DNS requests.
