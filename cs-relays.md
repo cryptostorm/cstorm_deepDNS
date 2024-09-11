@@ -158,13 +158,6 @@ Frankfurt, Germany Anonymized DNS relay server provided by https://cryptostorm.i
 sdns://gQ8xNDYuNzAuODIuMzo0NDM
 
 
-## anon-cs-dus1
-
-Dusseldorf, Germany 1 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIyMTMuMjAyLjIxNi4xMjo0NDM
-
-
 ## anon-cs-dus2
 
 Dusseldorf, Germany 2 Anonymized DNS relay server provided by https://cryptostorm.is/

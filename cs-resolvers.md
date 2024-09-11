@@ -160,13 +160,6 @@ Frankfurt, Germany DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADzE0Ni43MC44Mi4zOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-dus1
-
-Dusseldorf, Germany 1 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjIxMy4yMDIuMjE2LjEyOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-dus2
 
 Dusseldorf, Germany 2 DNSCrypt server provided by https://cryptostorm.is/
