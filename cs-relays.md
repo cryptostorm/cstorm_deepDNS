@@ -298,18 +298,11 @@ Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gRIxOTYuMjQwLjc5LjE2Mzo0NDM
 
 
-## anon-cs-nyc1
+## anon-cs-nyc
 
-US - New York City, NY 1 Anonymized DNS relay server provided by https://cryptostorm.is/
+US - New York City, NY Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAyMy4xOS4yNDUuODg6NDQz
-
-
-## anon-cs-nyc2
-
-US - New York City, NY 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRAyMy4xOS4yNDUuODQ6NDQz
+sdns://gRExNDYuNzAuMTU0LjY3OjQ0Mw
 
 
 ## anon-cs-il
