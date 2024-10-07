@@ -137,13 +137,6 @@ Netherlands Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRExODUuMTA3LjgwLjg0OjQ0Mw
 
 
-## anon-cs-nl2
-
-Netherlands 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIxMDguMTgxLjEyNC4yNzo0NDM
-
-
 ## anon-cs-berlin
 
 Berlin, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -158,25 +151,11 @@ Frankfurt, Germany Anonymized DNS relay server provided by https://cryptostorm.i
 sdns://gQ8xNDYuNzAuODIuMzo0NDM
 
 
-## anon-cs-dus2
+## anon-cs-dus
 
-Dusseldorf, Germany 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRMyMTMuMjAyLjIxNi4yMzY6NDQz
-
-
-## anon-cs-dus3
-
-Dusseldorf, Germany 3 Anonymized DNS relay server provided by https://cryptostorm.is/
+Dusseldorf, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRI4OS4xNjMuMjIxLjE4MTo0NDM
-
-
-## anon-cs-dus4
-
-Dusseldorf, Germany 4 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRI4NS4xMTQuMTM4LjExOTo0NDM
 
 
 ## anon-cs-manchester
@@ -212,13 +191,6 @@ sdns://gREzNy4xMjAuMjMyLjQzOjQ0Mw
 Switzerland Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRMxOTAuMjExLjI1NS4yMjc6NDQz
-
-
-## anon-cs-ch2
-
-Switzerland 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRExNDYuNzAuMTM1LjU5OjQ0Mw
 
 
 ## anon-cs-pt
@@ -309,13 +281,6 @@ sdns://gRExNDYuNzAuMTU0LjY3OjQ0Mw
 
 US - Chicago, IL Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxNzMuMjM0LjU2LjExNTo0NDM
-
-
-## anon-cs-il2
-
-US - Chicago, IL 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
 sdns://gRIxMDguMTgxLjYzLjE2Mzo0NDM
 
 
@@ -338,20 +303,6 @@ sdns://gRE2NC40Mi4xODEuMjI3OjQ0Mw
 US - Dallas, TX Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gREyMDkuNTguMTQ3LjM2OjQ0Mw
-
-
-## anon-cs-tx2
-
-US - Dallas, TX 2 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIxMDguMTgxLjEwMS4yNzo0NDM
-
-
-## anon-cs-tx3
-
-US - Dallas, TX 3 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIxMDguMTgxLjEwMS42Nzo0NDM
 
 
 ## anon-cs-la
@@ -390,13 +341,6 @@ sdns://gRAxOTguNy41OC4yMjc6NDQz
 
 
 ## anon-cs-fl
-
-US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRAyMy4xOS4xMTcuNTU6NDQz
-
-
-## anon-cs-fl2
 
 US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
 

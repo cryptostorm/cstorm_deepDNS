@@ -139,13 +139,6 @@ Netherlands DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAAETE4NS4xMDcuODAuODQ6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-nl2
-
-Netherlands 2 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQIAAAAAAAAADjEwOC4xODEuMTI0LjI3IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-berlin
 
 Berlin, Germany DNSCrypt server provided by https://cryptostorm.is/
@@ -160,25 +153,11 @@ Frankfurt, Germany DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQYAAAAAAAAADzE0Ni43MC44Mi4zOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-dus2
+## cs-dus
 
-Dusseldorf, Germany 2 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEzIxMy4yMDIuMjE2LjIzNjo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-dus3
-
-Dusseldorf, Germany 3 DNSCrypt server provided by https://cryptostorm.is/
+Dusseldorf, Germany DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAAEjg5LjE2My4yMjEuMTgxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-dus4
-
-Dusseldorf, Germany 4 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjg1LjExNC4xMzguMTE5OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-manchester
@@ -214,13 +193,6 @@ sdns://AQYAAAAAAAAAETM3LjEyMC4yMzIuNDM6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZC
 Switzerland DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAAEzE5MC4yMTEuMjU1LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-ch2
-
-Switzerland 2 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAETE0Ni43MC4xMzUuNTk6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-pt
@@ -318,13 +290,6 @@ sdns://AQYAAAAAAAAAETE0Ni43MC4xNTQuNjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZC
 
 US - Chicago, IL DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEjE3My4yMzQuNTYuMTE1OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-il2
-
-US - Chicago, IL 2 DNSCrypt server provided by https://cryptostorm.is/
-
 sdns://AQYAAAAAAAAAEjEwOC4xODEuNjMuMTYzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
@@ -347,20 +312,6 @@ sdns://AQYAAAAAAAAAETY0LjQyLjE4MS4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZC
 US - Dallas, TX DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAAETIwOS41OC4xNDcuMzY6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
-## cs-tx2
-
-US - Dallas, TX 2 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjEwOC4xODEuMTAxLjI3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-tx3
-
-US - Dallas, TX 3 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEjEwOC4xODEuMTAxLjY3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-la
@@ -401,13 +352,6 @@ sdns://AQYAAAAAAAAAEDE5OC43LjU4LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZ
 ## cs-fl
 
 US - Miami, FL DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQYAAAAAAAAAEDIzLjE5LjExNy41NTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-fl2
-
-US - Miami, FL 2 DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQYAAAAAAAAAEDIzLjE5LjExNy41MTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
