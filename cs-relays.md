@@ -344,6 +344,6 @@ sdns://gRAxOTguNy41OC4yMjc6NDQz
 
 US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAyMy4xOS4xMTcuNTE6NDQz
+sdns://gRIxNDYuNzAuMjQwLjIwMzo0NDM
 
 
