@@ -211,7 +211,14 @@ sdns://gRExNDYuNzAuNjYuMjI3OjQ0Mw
 
 Moldova Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxNzguMTc1LjEyOS4xNjo0NDM
+sdns://gRExNzYuMTIzLjQuMjMxOjQ0Mw
+
+
+## anon-cs-md6
+
+Moldova IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRtbMjAwMTo2Nzg6NmQ0OjUwMjM6OjUzXTo0NDM
 
 
 ## anon-cs-sk
