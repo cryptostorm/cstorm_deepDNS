@@ -199,7 +199,7 @@ sdns://AQYAAAAAAAAAEzE5MC4yMTEuMjU1LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aT
 
 Portugal DNSCrypt server provided by https://cryptostorm.is/
 
-AQcAAAAAAAAAEjkxLjIwNS4yMzAuMjI0OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQcAAAAAAAAAEjkxLjIwNS4yMzAuMjI0OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-pt6
