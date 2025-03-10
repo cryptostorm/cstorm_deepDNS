@@ -200,6 +200,13 @@ Portugal Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRI5MS4yMDUuMjMwLjIyNDo0NDM
 
 
+## anon-cs-pt6
+
+Portugal IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRdbMmEwNjozMDQwOjplYzQ6NTNdOjQ0Mw
+
+
 ## anon-cs-ro
 
 Romania Anonymized DNS relay server provided by https://cryptostorm.is/
