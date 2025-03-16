@@ -232,7 +232,14 @@ sdns://gRtbMjAwMTo2Nzg6NmQ0OjUwMjM6OjUzXTo0NDM
 
 South Korea Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gQ4xMDguMTgxLjUwLjIxOA
+sdns://gRIxMDguMTgxLjUwLjIxODo0NDM
+
+
+## anon-cs-sk6
+
+South Korea IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRdbMjQwNjo0ZjQwOjQ6Yzo6NTNdOjQ0Mw
 
 
 ## anon-cs-sydney

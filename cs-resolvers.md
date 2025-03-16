@@ -241,7 +241,14 @@ sdns://AQcAAAAAAAAAG1syMDAxOjY3ODo2ZDQ6NTAyMzo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3
 
 South Korea DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQIAAAAAAAAADjEwOC4xODEuNTAuMjE4IDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAEjEwOC4xODEuNTAuMjE4OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-sk6
+
+South Korea IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAF1syNDA2OjRmNDA6NDpjOjo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-sydney
