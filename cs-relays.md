@@ -344,7 +344,14 @@ sdns://gRA2NC4xMjAuNS4yNTE6NDQz
 
 US - Las Vegas, NV Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRAzNy4xMjAuMTQ3LjI6NDQz
+sdns://gRA3OS4xMTAuNTMuNTE6NDQz
+
+
+## anon-cs-nv6
+
+US - Las Vegas, NV IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMmEwZDo1NjAwOjM6MTk6OjUzXTo0NDM
 
 
 ## anon-cs-ore
