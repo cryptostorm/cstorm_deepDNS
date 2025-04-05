@@ -136,7 +136,14 @@ sdns://AQYAAAAAAAAAEjE5My4zNy4yNTUuMjI3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPG
 
 Netherlands DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETE4NS4xMDcuODAuODQ6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAETE4NS4xMDcuODAuODQ6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-nl6
+
+Netherlands IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGlsyYTAwOjE3Njg6NjAwMTo4Ojo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-berlin
@@ -381,6 +388,11 @@ sdns://AQYAAAAAAAAAEDE5OC43LjU4LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZ
 
 US - Miami, FL DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEjE0Ni43MC4yNDAuMjAzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQcAAAAAAAAAEjE0Ni43MC4yNDAuMjAzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
+## cs-fl6
+
+US - Miami, FL IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGVsyYTBkOjU2MDA6NjoxMjM6OjUzXTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz

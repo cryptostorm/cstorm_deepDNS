@@ -137,6 +137,13 @@ Netherlands Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRExODUuMTA3LjgwLjg0OjQ0Mw
 
 
+## anon-cs-nl6
+
+Netherlands IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRpbMmEwMDoxNzY4OjYwMDE6ODo6NTNdOjQ0Mw
+
+
 ## anon-cs-berlin
 
 Berlin, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -375,3 +382,8 @@ US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIxNDYuNzAuMjQwLjIwMzo0NDM
 
 
+## anon-cs-fl6
+
+US - Miami, FL IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRlbMmEwZDo1NjAwOjY6MTIzOjo1M106NDQz
