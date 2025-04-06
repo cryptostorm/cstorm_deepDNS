@@ -340,6 +340,13 @@ US - Dallas, TX Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gREyMDkuNTguMTQ3LjM2OjQ0Mw
 
 
+## anon-cs-tx6
+
+US - Dallas, TX IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gR9bMjYwNjo5ODgwOjIxMDA6YTAwNjozOjo1M106NDQz
+
+
 ## anon-cs-la
 
 US - Los Angeles, CA Anonymized DNS relay server provided by https://cryptostorm.is/
