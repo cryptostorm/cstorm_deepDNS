@@ -206,7 +206,7 @@ sdns://AQcAAAAAAAAAEzE5MC4yMTEuMjU1LjIyNzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aT
 
 Switzerland IPv6 DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://sdns://AQcAAAAAAAAAHVsyYTAyOjI5Yjg6ZGMwMToyMjIwOjo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAHVsyYTAyOjI5Yjg6ZGMwMToyMjIwOjo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-pt
