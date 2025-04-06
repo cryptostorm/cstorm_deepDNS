@@ -193,6 +193,13 @@ Denmark Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gREzNy4xMjAuMjMyLjQzOjQ0Mw
 
 
+## anon-cs-dk6
+
+Denmark IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMmEwZDo1NjAwOjFhOjM6OjUzXTo0NDM
+
+
 ## anon-cs-ch
 
 Switzerland Anonymized DNS relay server provided by https://cryptostorm.is/
