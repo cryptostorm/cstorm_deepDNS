@@ -298,6 +298,13 @@ Brazil Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIxNzcuNTQuMTQ1LjEzMTo0NDM
 
 
+## anon-cs-brazil6
+
+Brazil IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRdbMjgwNDozOTFjOjA6Nzo6NTNdOjQ0Mw
+
+
 ## anon-cs-mexico
 
 Mexico Anonymized DNS relay server provided by https://cryptostorm.is/
