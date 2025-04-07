@@ -193,6 +193,13 @@ Sweden Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRMxMjguMTI3LjEwNC4xMDg6NDQz
 
 
+## anon-cs-swe6
+
+Sweden IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRdbMmEwMDo3MTQyOjE6MTo6NTNdOjQ0Mw
+
+
 ## anon-cs-dk
 
 Denmark Anonymized DNS relay server provided by https://cryptostorm.is/
