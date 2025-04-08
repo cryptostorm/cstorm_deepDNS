@@ -438,6 +438,13 @@ US - Washington, DC Anonymized DNS relay server provided by https://cryptostorm.
 sdns://gRAxOTguNy41OC4yMjc6NDQz
 
 
+## anon-cs-dc6
+
+US - Washington, DC IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gR9bMjYwNDo5YTAwOjIwMTA6YTBiYjo2Ojo1M106NDQz
+
+
 ## anon-cs-fl
 
 US - Miami, FL Anonymized DNS relay server provided by https://cryptostorm.is/
