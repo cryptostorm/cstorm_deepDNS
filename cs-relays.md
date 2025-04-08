@@ -396,6 +396,13 @@ US - Los Angeles, CA Anonymized DNS relay server provided by https://cryptostorm
 sdns://gRMxOTUuMjA2LjEwNC4yMDM6NDQz
 
 
+## anon-cs-la6
+
+US - Los Angeles, CA IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMmEwZDo1NjAwOjRmOjU6OjUzXTo0NDM
+
+
 ## anon-cs-sea
 
 US - Seattle, WA Anonymized DNS relay server provided by https://cryptostorm.is/
