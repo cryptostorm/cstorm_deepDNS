@@ -39,6 +39,13 @@ Finland Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIxODUuMTE3LjExOC4yMDo0NDM
 
 
+## anon-cs-finland6
+
+Finland IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRpbMmEwYzpmMDQwOjA6MTkyNDo6NTNdOjQ0Mw
+
+
 ## anon-cs-poland
 
 Warsaw, Poland Anonymized DNS relay server provided by https://cryptostorm.is/
