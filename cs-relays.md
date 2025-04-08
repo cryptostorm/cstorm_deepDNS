@@ -312,6 +312,13 @@ Mexico Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRExMDMuMTQuMjYuMTkwOjQ0Mw
 
 
+## anon-cs-mexico6
+
+Mexico IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRpbMjYwNTo2NDQwOmYwMDA6Mjo6NTNdOjQ0Mw
+
+
 ## anon-cs-singapore
 
 Singapore Anonymized DNS relay server provided by https://cryptostorm.is/

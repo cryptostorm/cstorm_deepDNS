@@ -318,7 +318,14 @@ sdns://AQcAAAAAAAAAF1syODA0OjM5MWM6MDo3Ojo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoT
 
 Mexico City, Mexico DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETEwMy4xNC4yNi4xOTA6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAETEwMy4xNC4yNi4xOTA6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-mexico6
+
+Mexico City, Mexico IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGlsyNjA1OjY0NDA6ZjAwMDoyOjo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-singapore
