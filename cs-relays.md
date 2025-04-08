@@ -165,6 +165,13 @@ Dusseldorf, Germany Anonymized DNS relay server provided by https://cryptostorm.
 sdns://gRI4OS4xNjMuMjIxLjE4MTo0NDM
 
 
+## anon-cs-dus6
+
+Dusseldorf, Germany IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRtbMjAwMTo0YmEwOmZmZWQ6NzY6OjUzXTo0NDM
+
+
 ## anon-cs-manchester
 
 Manchester, England Anonymized DNS relay server provided by https://cryptostorm.is/

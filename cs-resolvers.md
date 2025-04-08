@@ -164,7 +164,14 @@ sdns://AQYAAAAAAAAADzE0Ni43MC44Mi4zOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkM
 
 Dusseldorf, Germany DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEjg5LjE2My4yMjEuMTgxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQcAAAAAAAAAEjg5LjE2My4yMjEuMTgxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-dus6
+
+Dusseldorf, Germany IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAG1syMDAxOjRiYTA6ZmZlZDo3Njo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-manchester
