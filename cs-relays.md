@@ -442,7 +442,14 @@ sdns://gRhbMmEwZDo1NjAwOjM6MTk6OjUzXTo0NDM
 
 US - Oregon Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRExNzkuNjEuMjIzLjQ3OjQ0Mw
+sdns://gRExNzkuNjEuMjIzLjQ4OjQ0Mw
+
+
+## anon-cs-ore6
+
+US - Oregon IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRdbMjYwNTo2YzgwOjU6ZDo6NTNdOjQ0Mw
 
 
 ## anon-cs-dc
