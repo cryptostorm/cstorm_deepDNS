@@ -17,7 +17,14 @@ To use this list, add this to the `[sources]` section of your `dnscrypt-proxy.to
 
 France DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETE2My4xNzIuMzQuNTY6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAETE2My4xNzIuMzQuNTY6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-fr6
+
+France IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAHFsyMDAxOmJjODozMmQ3OjIwMGM6OjUzXTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-india

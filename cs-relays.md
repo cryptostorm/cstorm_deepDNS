@@ -18,6 +18,13 @@ France Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRExNjMuMTcyLjM0LjU2OjQ0Mw
 
 
+## anon-cs-fr6
+
+France IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRxbMjAwMTpiYzg6MzJkNzoyMDBjOjo1M106NDQz
+
+
 ## anon-cs-india
 
 India Anonymized DNS relay server provided by https://cryptostorm.is/
