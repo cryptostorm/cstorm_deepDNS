@@ -186,6 +186,13 @@ Manchester, England Anonymized DNS relay server provided by https://cryptostorm.
 sdns://gRExOTUuMTIuNDguMTcxOjQ0Mw
 
 
+## anon-cs-manchester6
+
+Manchester, England IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6OGI6NjE6OjUzXTo0NDM
+
+
 ## anon-cs-london
 
 London, England Anonymized DNS relay server provided by https://cryptostorm.is/
