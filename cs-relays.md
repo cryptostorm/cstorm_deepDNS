@@ -74,6 +74,13 @@ Sofia, Bulgaria Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIzNy4xMjAuMTUyLjIzNTo0NDM
 
 
+## anon-cs-bulgaria6
+
+Sofia, Bulgaria IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6MzA6NjQ6OjUzXTo0NDM
+
+
 ## anon-cs-czech
 
 Prague, Czech Republic Anonymized DNS relay server provided by https://cryptostorm.is/
