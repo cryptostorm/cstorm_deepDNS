@@ -130,6 +130,13 @@ Brussels, Belgium Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gREzNy4xMjAuMjM2LjExOjQ0Mw
 
 
+## anon-cs-belgium6
+
+Brussels, Belgium IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRlbMjAwMTphYzg6Mjc6MTAzOjo1M106NDQz
+
+
 ## anon-cs-norway
 
 Oslo, Norway Anonymized DNS relay server provided by https://cryptostorm.is/

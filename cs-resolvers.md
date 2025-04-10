@@ -129,7 +129,14 @@ sdns://AQYAAAAAAAAAEjM3LjEyMC4xNDIuMTE1OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPG
 
 Brussels, Belgium DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETM3LjEyMC4yMzYuMTE6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAETM3LjEyMC4yMzYuMTE6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-belgium6
+
+Brussels, Belgium IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGVsyMDAxOmFjODoyNzoxMDM6OjUzXTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-norway
