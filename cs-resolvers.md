@@ -458,7 +458,14 @@ sdns://AQcAAAAAAAAAGFsyYTBkOjU2MDA6NGY6NTo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllK
 
 US - Seattle, WA DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEDY0LjEyMC41LjI1MTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+sdns://AQcAAAAAAAAAEDY0LjEyMC41LjI1MTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
+
+
+## cs-sea6
+
+US - Seattle, WA IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAHFsyNjA3OmY1YjI6MTphMDBiOmI6OjUzXTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-nv

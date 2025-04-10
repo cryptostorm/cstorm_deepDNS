@@ -452,6 +452,13 @@ US - Seattle, WA Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRA2NC4xMjAuNS4yNTE6NDQz
 
 
+## anon-cs-sea6
+
+US - Seattle, WA IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRxbMjYwNzpmNWIyOjE6YTAwYjpiOjo1M106NDQz
+
+
 ## anon-cs-nv
 
 US - Las Vegas, NV Anonymized DNS relay server provided by https://cryptostorm.is/
