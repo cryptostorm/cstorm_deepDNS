@@ -88,6 +88,13 @@ Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRE5NC4xOTguNDEuMjM1OjQ0Mw
 
 
+## anon-cs-austria6
+
+Wien, Austria IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6Mjk6YTE6OjUzXTo0NDM
+
+
 ## anon-cs-milan
 
 Milan, Italy Anonymized DNS relay server provided by https://cryptostorm.is/
