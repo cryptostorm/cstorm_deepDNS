@@ -200,6 +200,13 @@ Frankfurt, Germany Anonymized DNS relay server provided by https://cryptostorm.i
 sdns://gQ8xNDYuNzAuODIuMzo0NDM
 
 
+## anon-cs-de6
+
+Frankfurt, Germany IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMmEwZDo1NjAwOjFkOjk6OjUzXTo0NDM
+
+
 ## anon-cs-dus
 
 Dusseldorf, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
