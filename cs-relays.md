@@ -130,6 +130,13 @@ Barcelona, Spain Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIzNy4xMjAuMTQyLjExNTo0NDM
 
 
+## anon-cs-barcelona6
+
+Barcelona, Spain IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6MzU6MTc6OjUzXTo0NDM
+
+
 ## anon-cs-belgium
 
 Brussels, Belgium Anonymized DNS relay server provided by https://cryptostorm.is/
