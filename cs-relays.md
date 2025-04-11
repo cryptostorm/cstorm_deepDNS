@@ -109,6 +109,13 @@ Milan, Italy Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRMyMTcuMTM4LjIxOS4yMTk6NDQz
 
 
+## anon-cs-milan6
+
+Milan, Italy IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6MjQ6YTE6OjUzXTo0NDM
+
+
 ## anon-cs-rome
 
 Rome, Italy Anonymized DNS relay server provided by https://cryptostorm.is/
