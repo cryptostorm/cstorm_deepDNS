@@ -179,6 +179,13 @@ Bratislava, Slovakia Anonymized DNS relay server provided by https://cryptostorm
 sdns://gRIxOTMuMzcuMjU1LjIyNzo0NDM
 
 
+## anon-cs-slovakia6
+
+Bratislava, Slovakia IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRlbMmEwZDo1NjAwOjExOjMyOjo1M106NDQz
+
+
 ## anon-cs-nl
 
 Netherlands Anonymized DNS relay server provided by https://cryptostorm.is/
