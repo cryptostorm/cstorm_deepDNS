@@ -424,6 +424,13 @@ US - New York City, NY Anonymized DNS relay server provided by https://cryptosto
 sdns://gRExNDYuNzAuMTU0LjY3OjQ0Mw
 
 
+## anon-cs-nyc6
+
+US - New York City, NY IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRlbMmEwZDo1NjAwOjI0OjU0Ojo1M106NDQz
+
+
 ## anon-cs-il
 
 US - Chicago, IL Anonymized DNS relay server provided by https://cryptostorm.is/
