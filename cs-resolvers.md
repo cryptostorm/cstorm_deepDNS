@@ -444,7 +444,14 @@ sdns://AQcAAAAAAAAAGVsyYTBkOjU2MDA6MjQ6NTQ6OjUzXTo0NDMgMTNyrVlWMsJBa4cvCY-FG925Z
 
 US - Chicago, IL DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEjEwOC4xODEuNjMuMTYzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQcAAAAAAAAAEjEwOC4xODEuNjMuMTYzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-il6
+
+US - Chicago, IL IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGlsyNjA0OjY2MDA6MjcwMDpiOjo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-nc

@@ -438,6 +438,13 @@ US - Chicago, IL Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIxMDguMTgxLjYzLjE2Mzo0NDM
 
 
+## anon-cs-il6
+
+US - Chicago, IL Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRpbMjYwNDo2NjAwOjI3MDA6Yjo6NTNdOjQ0Mw
+
+
 ## anon-cs-nc
 
 US - North Carolina Anonymized DNS relay server provided by https://cryptostorm.is/
