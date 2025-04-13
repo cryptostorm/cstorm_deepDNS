@@ -129,7 +129,14 @@ sdns://AQcAAAAAAAAAGFsyMDAxOmFjODoyNDphMTo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllK
 
 Rome, Italy DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEjM3LjEyMC4yMDcuMTMxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQcAAAAAAAAAEjM3LjEyMC4yMDcuMTMxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-rome6
+
+Rome, Italy IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGFsyMDAxOmFjODozOToyMzo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-madrid

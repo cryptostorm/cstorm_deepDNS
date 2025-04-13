@@ -130,6 +130,13 @@ Rome, Italy Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIzNy4xMjAuMjA3LjEzMTo0NDM
 
 
+## anon-cs-rome6
+
+Rome, Italy IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6Mzk6MjM6OjUzXTo0NDM
+
+
 ## anon-cs-madrid
 
 Madrid, Spain Anonymized DNS relay server provided by https://cryptostorm.is/
