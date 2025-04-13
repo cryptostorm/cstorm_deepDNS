@@ -459,6 +459,13 @@ US - Atlanta, GA Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRE2NC40Mi4xODEuMjI3OjQ0Mw
 
 
+## anon-cs-ga6
+
+US - Atlanta, GA IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRtbMjYwNTo5ZjgwOjYwMDA6NDg6OjUzXTo0NDM
+
+
 ## anon-cs-tx
 
 US - Dallas, TX Anonymized DNS relay server provided by https://cryptostorm.is/
