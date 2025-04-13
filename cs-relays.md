@@ -39,6 +39,13 @@ Dublin, Ireland Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIzNy4xMjAuMjM1LjE4Nzo0NDM
 
 
+## anon-cs-ireland6
+
+Dublin, Ireland IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6ODg6OTM6OjUzXTo0NDM
+
+
 ## anon-cs-finland
 
 Finland Anonymized DNS relay server provided by https://cryptostorm.is/
