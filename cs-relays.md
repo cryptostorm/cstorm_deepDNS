@@ -144,6 +144,13 @@ Madrid, Spain Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIxODUuMTgzLjEwNi44Mzo0NDM
 
 
+## anon-cs-madrid6
+
+Madrid, Spain IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6MjM6YTM6OjUzXTo0NDM
+
+
 ## anon-cs-barcelona
 
 Barcelona, Spain Anonymized DNS relay server provided by https://cryptostorm.is/

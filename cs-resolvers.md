@@ -143,7 +143,14 @@ sdns://AQcAAAAAAAAAGFsyMDAxOmFjODozOToyMzo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllK
 
 Madrid, Spain DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEjE4NS4xODMuMTA2LjgzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQcAAAAAAAAAEjE4NS4xODMuMTA2LjgzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-madrid6
+
+Madrid, Spain IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGFsyMDAxOmFjODoyMzphMzo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-barcelona
