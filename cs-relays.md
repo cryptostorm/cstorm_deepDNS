@@ -32,6 +32,13 @@ India Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRMxNjUuMjMxLjI1My4xNjM6NDQz
 
 
+## anon-cs-india6
+
+India IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRtbMjAwMTo0NzA6MWYyOToyMDQ6OjUzXTo0NDM
+
+
 ## anon-cs-ireland
 
 Dublin, Ireland Anonymized DNS relay server provided by https://cryptostorm.is/
