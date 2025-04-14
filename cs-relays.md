@@ -81,6 +81,13 @@ Budapest, Hungary Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gRE4Ni4xMDYuNzQuMjE5OjQ0Mw
 
 
+## anon-cs-hungary6
+
+Budapest, Hungary IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6MjY6NjE6OjUzXTo0NDM
+
+
 ## anon-cs-bulgaria
 
 Sofia, Bulgaria Anonymized DNS relay server provided by https://cryptostorm.is/
