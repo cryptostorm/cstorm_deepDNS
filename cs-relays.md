@@ -508,6 +508,13 @@ US - North Carolina Anonymized DNS relay server provided by https://cryptostorm.
 sdns://gRIxNTUuMjU0LjIxLjI1MDo0NDM
 
 
+## anon-cs-nc6
+
+US - North Carolina IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjYwNTo2YzgwOjExOmM6OjUzXTo0NDM
+
+
 ## anon-cs-ga
 
 US - Atlanta, GA Anonymized DNS relay server provided by https://cryptostorm.is/

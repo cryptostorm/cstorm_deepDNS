@@ -514,7 +514,14 @@ sdns://AQcAAAAAAAAAGlsyNjA0OjY2MDA6MjcwMDpiOjo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvdu
 
 US - North Carolina DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEjE1NS4yNTQuMjEuMjUwOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQcAAAAAAAAAEjE1NS4yNTQuMjEuMjUwOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-nc6
+
+US - North Carolina IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGFsyNjA1OjZjODA6MTE6Yzo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-ga
