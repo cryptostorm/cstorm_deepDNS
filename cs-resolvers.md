@@ -374,7 +374,14 @@ sdns://AQcAAAAAAAAAF1syYTA2OjMwNDA6OmVjNDo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoT
 
 Romania DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETE0Ni43MC42Ni4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAETE0Ni43MC42Ni4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-ro6
+
+Romania IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGVsyYTA0OjlkYzA6MDoxNjI6OjUzXTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-lv
