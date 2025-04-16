@@ -487,6 +487,13 @@ Singapore Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gREzNy4xMjAuMTUxLjExOjQ0Mw
 
 
+## anon-cs-singapore6
+
+Singapore IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMmEwZDo1NjAwOjFmOjc6OjUzXTo0NDM
+
+
 ## anon-cs-montreal
 
 Montreal, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
