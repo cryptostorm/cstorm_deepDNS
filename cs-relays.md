@@ -228,6 +228,13 @@ Belgrade, Serbia Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRIzNy4xMjAuMTkzLjIxOTo0NDM
 
 
+## anon-cs-serbia6
+
+Belgrade, Serbia IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6N2Q6NDc6OjUzXTo0NDM
+
+
 ## anon-cs-slovakia
 
 Bratislava, Slovakia Anonymized DNS relay server provided by https://cryptostorm.is/
