@@ -213,7 +213,14 @@ sdns://AQcAAAAAAAAAGVsyYTAyOjQ4NDA6MjoyMzQ6OjUzXTo0NDMgMTNyrVlWMsJBa4cvCY-FG925Z
 
 Oslo, Norway DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAEjkxLjIxOS4yMTUuMjI3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQcAAAAAAAAAEjkxLjIxOS4yMTUuMjI3OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+
+
+## cs-norway6
+
+Oslo, Norway IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGFsyMDAxOmFjODozODo5NDo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-serbia

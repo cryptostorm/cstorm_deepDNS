@@ -214,6 +214,13 @@ Oslo, Norway Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRI5MS4yMTkuMjE1LjIyNzo0NDM
 
 
+## anon-cs-norway6
+
+Oslo, Norway IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6Mzg6OTQ6OjUzXTo0NDM
+
+
 ## anon-cs-serbia
 
 Belgrade, Serbia Anonymized DNS relay server provided by https://cryptostorm.is/
