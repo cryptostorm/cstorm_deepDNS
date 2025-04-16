@@ -116,6 +116,13 @@ Prague, Czech Republic Anonymized DNS relay server provided by https://cryptosto
 sdns://gRMyMTcuMTM4LjIyMC4yNDM6NDQz
 
 
+## anon-cs-czech6
+
+Prague, Czech Republic IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6MzM6Nzc6OjUzXTo0NDM
+
+
 ## anon-cs-austria
 
 Wien, Austria Anonymized DNS relay server provided by https://cryptostorm.is/
