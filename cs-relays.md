@@ -74,6 +74,13 @@ Warsaw, Poland Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gREzNy4xMjAuMjExLjkxOjQ0Mw
 
 
+## anon-cs-poland6
+
+Warsaw, Poland IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRlbMmEwZDo1NjAwOjEzOjcxOjo1M106NDQz
+
+
 ## anon-cs-hungary
 
 Budapest, Hungary Anonymized DNS relay server provided by https://cryptostorm.is/
