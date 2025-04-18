@@ -284,6 +284,13 @@ Berlin, Germany Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gREzNy4xMjAuMjE3Ljc1OjQ0Mw
 
 
+## anon-cs-berlin6
+
+Berlin, Germany IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6MzY6NjE6OjUzXTo0NDM
+
+
 ## anon-cs-de
 
 Frankfurt, Germany Anonymized DNS relay server provided by https://cryptostorm.is/

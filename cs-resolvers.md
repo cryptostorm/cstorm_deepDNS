@@ -283,7 +283,14 @@ sdns://AQcAAAAAAAAAGlsyYTAwOjE3Njg6NjAwMTo4Ojo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvdu
 
 Berlin, Germany DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETM3LjEyMC4yMTcuNzU6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAETM3LjEyMC4yMTcuNzU6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-berlin6
+
+Berlin, Germany IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGFsyMDAxOmFjODozNjo2MTo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-de
