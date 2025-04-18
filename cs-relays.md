@@ -445,6 +445,13 @@ Sydney, Australia Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gRIzNy4xMjAuMjM0LjI1MTo0NDM
 
 
+## anon-cs-sydney6
+
+Sydney, Australia IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6ODQ6NGQ6OjUzXTo0NDM
+
+
 ## anon-cs-tokyo
 
 Tokyo, Japan Anonymized DNS relay server provided by https://cryptostorm.is/
