@@ -452,6 +452,13 @@ Tokyo, Japan Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRAxNDYuNzAuMzEuNDM6NDQz
 
 
+## anon-cs-tokyo6
+
+Tokyo, Japan IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMjAwMTphYzg6NDA6ZGY6OjUzXTo0NDM
+
+
 ## anon-cs-brazil
 
 Brazil Anonymized DNS relay server provided by https://cryptostorm.is/
