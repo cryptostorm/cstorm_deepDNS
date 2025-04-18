@@ -216,7 +216,7 @@ sdns://gRMxMDkuMjQ4LjE0OS4xMzM6NDQz
 
 ## anon-cs-latvia6
 
-Riga, Latvia Anonymized DNS relay server provided by https://cryptostorm.is/
+Riga, Latvia IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRlbMmEwMjo0ODQwOjI6MjM0Ojo1M106NDQz
 
@@ -559,7 +559,7 @@ sdns://gRIxMDguMTgxLjYzLjE2Mzo0NDM
 
 ## anon-cs-il6
 
-US - Chicago, IL Anonymized DNS relay server provided by https://cryptostorm.is/
+US - Chicago, IL IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRpbMjYwNDo2NjAwOjI3MDA6Yjo6NTNdOjQ0Mw
 
