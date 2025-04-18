@@ -528,7 +528,14 @@ sdns://AQcAAAAAAAAAGFsyYTBkOjU2MDA6MWY6Nzo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllK
 
 Montreal, Canada DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQYAAAAAAAAAETE3Ni4xMTMuNzQuMTk6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAETE3Ni4xMTMuNzQuMTk6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+
+
+## cs-montreal6
+
+Montreal, Canada IPv6 DNSCrypt server provided by https://cryptostorm.is/
+
+sdns://AQcAAAAAAAAAGFsyYTBkOjU2MDA6MTk6NTo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
 ## cs-vancouver

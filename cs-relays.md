@@ -522,6 +522,13 @@ Montreal, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRExNzYuMTEzLjc0LjE5OjQ0Mw
 
 
+## anon-cs-montreal6
+
+Montreal, Canada IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRhbMmEwZDo1NjAwOjE5OjU6OjUzXTo0NDM
+
+
 ## anon-cs-vancouver
 
 Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is/
