@@ -508,6 +508,13 @@ Vancouver, Canada Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gRIxOTYuMjQwLjc5LjE2Mzo0NDM
 
 
+## anon-cs-vancouver6
+
+Vancouver, Canada IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
+
+sdns://gRlbMmEwMjo1NzQwOjI0OjQ1Ojo1M106NDQz
+
+
 ## anon-cs-nyc
 
 US - New York City, NY Anonymized DNS relay server provided by https://cryptostorm.is/
