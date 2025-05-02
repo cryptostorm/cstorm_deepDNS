@@ -207,13 +207,6 @@ Brussels, Belgium IPv6 Anonymized DNS relay server provided by https://cryptosto
 sdns://gRlbMjAwMTphYzg6Mjc6MTAzOjo1M106NDQz
 
 
-## anon-cs-latvia
-
-Riga, Latvia Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRMxMDkuMjQ4LjE0OS4xMzM6NDQz
-
-
 ## anon-cs-latvia6
 
 Riga, Latvia IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
