@@ -123,20 +123,6 @@ Milan, Italy IPv6 Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gRhbMjAwMTphYzg6MjQ6YTE6OjUzXTo0NDM
 
 
-## anon-cs-rome6
-
-Rome, Italy IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRhbMjAwMTphYzg6Mzk6MjM6OjUzXTo0NDM
-
-
-## anon-cs-madrid6
-
-Madrid, Spain IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRhbMjAwMTphYzg6MjM6YTM6OjUzXTo0NDM
-
-
 ## anon-cs-barcelona
 
 Barcelona, Spain Anonymized DNS relay server provided by https://cryptostorm.is/
