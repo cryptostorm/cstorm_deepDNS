@@ -39,20 +39,6 @@ India IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRtbMjAwMTo0NzA6MWYyOToyMDQ6OjUzXTo0NDM
 
 
-## anon-cs-ireland
-
-Dublin, Ireland Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIzNy4xMjAuMjM1LjE4Nzo0NDM
-
-
-## anon-cs-ireland6
-
-Dublin, Ireland IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRhbMjAwMTphYzg6ODg6OTM6OjUzXTo0NDM
-
-
 ## anon-cs-finland
 
 Finland Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -93,20 +79,6 @@ sdns://gRE4Ni4xMDYuNzQuMjE5OjQ0Mw
 Budapest, Hungary IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRhbMjAwMTphYzg6MjY6NjE6OjUzXTo0NDM
-
-
-## anon-cs-bulgaria
-
-Sofia, Bulgaria Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIzNy4xMjAuMTUyLjIzNTo0NDM
-
-
-## anon-cs-bulgaria6
-
-Sofia, Bulgaria IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRhbMjAwMTphYzg6MzA6NjQ6OjUzXTo0NDM
 
 
 ## anon-cs-czech
@@ -151,25 +123,11 @@ Milan, Italy IPv6 Anonymized DNS relay server provided by https://cryptostorm.is
 sdns://gRhbMjAwMTphYzg6MjQ6YTE6OjUzXTo0NDM
 
 
-## anon-cs-rome
-
-Rome, Italy Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIzNy4xMjAuMjA3LjEzMTo0NDM
-
-
 ## anon-cs-rome6
 
 Rome, Italy IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRhbMjAwMTphYzg6Mzk6MjM6OjUzXTo0NDM
-
-
-## anon-cs-madrid
-
-Madrid, Spain Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIxODUuMTgzLjEwNi44Mzo0NDM
 
 
 ## anon-cs-madrid6
@@ -207,13 +165,6 @@ Brussels, Belgium IPv6 Anonymized DNS relay server provided by https://cryptosto
 sdns://gRlbMjAwMTphYzg6Mjc6MTAzOjo1M106NDQz
 
 
-## anon-cs-latvia6
-
-Riga, Latvia IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRlbMmEwMjo0ODQwOjI6MjM0Ojo1M106NDQz
-
-
 ## anon-cs-norway
 
 Oslo, Norway Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -240,20 +191,6 @@ sdns://gRIzNy4xMjAuMTkzLjIxOTo0NDM
 Belgrade, Serbia IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRhbMjAwMTphYzg6N2Q6NDc6OjUzXTo0NDM
-
-
-## anon-cs-slovakia
-
-Bratislava, Slovakia Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIxOTMuMzcuMjU1LjIyNzo0NDM
-
-
-## anon-cs-slovakia6
-
-Bratislava, Slovakia IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRlbMmEwZDo1NjAwOjExOjMyOjo1M106NDQz
 
 
 ## anon-cs-nl
@@ -352,20 +289,6 @@ sdns://gRMxMjguMTI3LjEwNC4xMDg6NDQz
 Sweden IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRdbMmEwMDo3MTQyOjE6MTo6NTNdOjQ0Mw
-
-
-## anon-cs-dk
-
-Denmark Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gREzNy4xMjAuMjMyLjQzOjQ0Mw
-
-
-## anon-cs-dk6
-
-Denmark IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRhbMmEwZDo1NjAwOjFhOjM6OjUzXTo0NDM
 
 
 ## anon-cs-ch
@@ -480,20 +403,6 @@ Brazil IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRdbMjgwNDozOTFjOjA6Nzo6NTNdOjQ0Mw
 
 
-## anon-cs-mexico
-
-Mexico Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRExMDMuMTQuMjYuMTkwOjQ0Mw
-
-
-## anon-cs-mexico6
-
-Mexico IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRpbMjYwNTo2NDQwOmYwMDA6Mjo6NTNdOjQ0Mw
-
-
 ## anon-cs-singapore
 
 Singapore Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -562,20 +471,6 @@ sdns://gRIxMDguMTgxLjYzLjE2Mzo0NDM
 US - Chicago, IL IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRpbMjYwNDo2NjAwOjI3MDA6Yjo6NTNdOjQ0Mw
-
-
-## anon-cs-nc
-
-US - North Carolina Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIxNTUuMjU0LjIxLjI1MDo0NDM
-
-
-## anon-cs-nc6
-
-US - North Carolina IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRhbMjYwNTo2YzgwOjExOmM6OjUzXTo0NDM
 
 
 ## anon-cs-ga
