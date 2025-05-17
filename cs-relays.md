@@ -449,14 +449,14 @@ sdns://gRlbMmEwZDo1NjAwOjI0OjU0Ojo1M106NDQz
 
 US - Chicago, IL Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxMDguMTgxLjYzLjE2Mzo0NDM
+sdns://gRMxOTUuMjQyLjIxMi4xMzE6NDQz
 
 
 ## anon-cs-il6
 
 US - Chicago, IL IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRpbMjYwNDo2NjAwOjI3MDA6Yjo6NTNdOjQ0Mw
+sdns://gRlbMmEwZDo1NjAwOjE0NDoxOjo1M106NDQz
 
 
 ## anon-cs-ga

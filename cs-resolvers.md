@@ -451,14 +451,14 @@ sdns://AQcAAAAAAAAAGVsyYTBkOjU2MDA6MjQ6NTQ6OjUzXTo0NDMgMTNyrVlWMsJBa4cvCY-FG925Z
 
 US - Chicago, IL DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQcAAAAAAAAAEjEwOC4xODEuNjMuMTYzOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQcAAAAAAAAAEzE5NS4yNDIuMjEyLjEzMTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-il6
 
 US - Chicago, IL IPv6 DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQcAAAAAAAAAGlsyNjA0OjY2MDA6MjcwMDpiOjo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAGVsyYTBkOjU2MDA6MTQ0OjE6OjUzXTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-ga
