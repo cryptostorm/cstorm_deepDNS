@@ -465,14 +465,14 @@ sdns://AQcAAAAAAAAAGlsyNjA0OjY2MDA6MjcwMDpiOjo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvdu
 
 US - Atlanta, GA DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQcAAAAAAAAAETY0LjQyLjE4MS4yMjc6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAEzEzMC4xOTUuMjEyLjIxMTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-ga6
 
 US - Atlanta, GA IPv6 DNSCrypt server provided by https://cryptostorm.is/
 
-sdns://AQcAAAAAAAAAG1syNjA1OjlmODA6NjAwMDo0ODo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQcAAAAAAAAAGVsyYTBkOjU2MDA6MTQ1OjU6OjUzXTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
 ## cs-tx

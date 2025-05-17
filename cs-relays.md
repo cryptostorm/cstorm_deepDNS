@@ -463,14 +463,14 @@ sdns://gRpbMjYwNDo2NjAwOjI3MDA6Yjo6NTNdOjQ0Mw
 
 US - Atlanta, GA Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRE2NC40Mi4xODEuMjI3OjQ0Mw
+sdns://gRMxMzAuMTk1LjIxMi4yMTE6NDQz
 
 
 ## anon-cs-ga6
 
 US - Atlanta, GA IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRtbMjYwNTo5ZjgwOjYwMDA6NDg6OjUzXTo0NDM
+sdns://gRlbMmEwZDo1NjAwOjE0NTo1Ojo1M106NDQz
 
 
 ## anon-cs-tx
