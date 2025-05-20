@@ -45,14 +45,14 @@ sdns://AQcAAAAAAAAAG1syMDAxOjQ3MDoxZjI5OjIwNDo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3
 
 Finland DNSCrypt server provided by https://cryptostorm.is
 
-sdns://AQcAAAAAAAAAEjE4NS4xMTcuMTE4LjIwOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
+sdns://AQcAAAAAAAAAETgzLjE0My4yNDIuNDM6NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-finland6
 
 Finland IPv6 DNSCrypt server provided by https://cryptostorm.is
 
-sdns://AQcAAAAAAAAAGlsyYTBjOmYwNDA6MDoxOTI0Ojo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
+sdns://AQcAAAAAAAAAGlsyYTBkOjU2MDA6MTQyOjExOjo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-poland

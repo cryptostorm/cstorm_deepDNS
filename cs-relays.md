@@ -43,14 +43,14 @@ sdns://gRtbMjAwMTo0NzA6MWYyOToyMDQ6OjUzXTo0NDM
 
 Finland Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRIxODUuMTE3LjExOC4yMDo0NDM
+sdns://gRE4My4xNDMuMjQyLjQzOjQ0Mw
 
 
 ## anon-cs-finland6
 
 Finland IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 
-sdns://gRpbMmEwYzpmMDQwOjA6MTkyNDo6NTNdOjQ0Mw
+sdns://gRpbMmEwZDo1NjAwOjE0MjoxMTo6NTNdOjQ0Mw
 
 
 ## anon-cs-poland
