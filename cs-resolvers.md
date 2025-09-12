@@ -9,7 +9,7 @@ To use this list, add this to the `[sources]` section of your `dnscrypt-proxy.to
     [sources.'cs-resolvers']
     urls = ['https://raw.githubusercontent.com/cryptostorm/cstorm_deepDNS/master/cs-resolvers.md', 'https://cryptostorm.is/cs-resolvers.md']
     cache_file = 'cs-resolvers.md'
-    minisign_key = 'RWTPxKslJjY80pRxF0M9vScVdVMnISO6Enh96KqICIRF/B2qAIwi9vdn'
+    minisign_key = 'RWTzXTWKLLKfM3fRQW0CUwSN17U3YMsVcVdfi3ERraxuttv2tL8dsdUE'
     prefix = ''
 --
 
