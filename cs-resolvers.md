@@ -27,20 +27,6 @@ France IPv6 DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQcAAAAAAAAAHFsyMDAxOmJjODozMmQ3OjIwMGM6OjUzXTo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
 
 
-## cs-india
-
-India DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQcAAAAAAAAAEzE2NS4yMzEuMjUzLjE2Mzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZDDbqVoeMi5kbnNjcnlwdC1jZXJ0LmNyeXB0b3N0b3JtLmlz
-
-
-## cs-india6
-
-India IPv6 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQcAAAAAAAAAG1syMDAxOjQ3MDoxZjI5OjIwNDo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
 ## cs-finland
 
 Finland DNSCrypt server provided by https://cryptostorm.is
@@ -293,20 +279,6 @@ Switzerland IPv6 DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQcAAAAAAAAAHVsyYTAyOjI5Yjg6ZGMwMToyMjIwOjo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
-## cs-pt
-
-Portugal DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQcAAAAAAAAAEjkxLjIwNS4yMzAuMjI0OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-pt6
-
-Portugal IPv6 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQcAAAAAAAAAF1syYTA2OjMwNDA6OmVjNDo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-ro
 
 Romania DNSCrypt server provided by https://cryptostorm.is/
@@ -335,20 +307,6 @@ Moldova IPv6 DNSCrypt server provided by https://cryptostorm.is/
 sdns://AQcAAAAAAAAAG1syMDAxOjY3ODo2ZDQ6NTAyMzo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
 
 
-## cs-sk
-
-South Korea DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQcAAAAAAAAAEjEwOC4xODEuNTAuMjE4OjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-sk6
-
-South Korea IPv6 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQcAAAAAAAAAF1syNDA2OjRmNDA6NDpjOjo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
-
-
 ## cs-sydney
 
 Sydney, Australia DNSCrypt server provided by https://cryptostorm.is/
@@ -375,20 +333,6 @@ sdns://AQcAAAAAAAAAEDE0Ni43MC4zMS40Mzo0NDMgMTNyrVlWMsJBa4cvCY-FG925ZShMbL6aTxkJZ
 Tokyo, Japan IPv6 DNSCrypt server provided by https://cryptostorm.is/
 
 sdns://AQcAAAAAAAAAGFsyMDAxOmFjODo0MDpkZjo6NTNdOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-brazil
-
-Sao Paulo, Brazil DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQcAAAAAAAAAEjE3Ny41NC4xNDUuMTMxOjQ0MyAxM3KtWVYywkFrhy8Jj4Ub3bllKExsvppPGQlkMNupWh4yLmRuc2NyeXB0LWNlcnQuY3J5cHRvc3Rvcm0uaXM
-
-
-## cs-brazil6
-
-Sao Paulo, Brazil IPv6 DNSCrypt server provided by https://cryptostorm.is/
-
-sdns://AQcAAAAAAAAAF1syODA0OjM5MWM6MDo3Ojo1M106NDQzIDEzcq1ZVjLCQWuHLwmPhRvduWUoTGy-mk8ZCWQw26laHjIuZG5zY3J5cHQtY2VydC5jcnlwdG9zdG9ybS5pcw
 
 
 ## cs-singapore

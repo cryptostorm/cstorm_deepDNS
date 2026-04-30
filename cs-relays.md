@@ -25,20 +25,6 @@ France IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRxbMjAwMTpiYzg6MzJkNzoyMDBjOjo1M106NDQz
 
 
-## anon-cs-india
-
-India Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRMxNjUuMjMxLjI1My4xNjM6NDQz
-
-
-## anon-cs-india6
-
-India IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRtbMjAwMTo0NzA6MWYyOToyMDQ6OjUzXTo0NDM
-
-
 ## anon-cs-finland
 
 Finland Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -291,20 +277,6 @@ Switzerland IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gR1bMmEwMjoyOWI4OmRjMDE6MjIyMDo6NTNdOjQ0Mw
 
 
-## anon-cs-pt
-
-Portugal Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRI5MS4yMDUuMjMwLjIyNDo0NDM
-
-
-## anon-cs-pt6
-
-Portugal IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRdbMmEwNjozMDQwOjplYzQ6NTNdOjQ0Mw
-
-
 ## anon-cs-ro
 
 Romania Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -333,20 +305,6 @@ Moldova IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 sdns://gRtbMjAwMTo2Nzg6NmQ0OjUwMjM6OjUzXTo0NDM
 
 
-## anon-cs-sk
-
-South Korea Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIxMDguMTgxLjUwLjIxODo0NDM
-
-
-## anon-cs-sk6
-
-South Korea IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRdbMjQwNjo0ZjQwOjQ6Yzo6NTNdOjQ0Mw
-
-
 ## anon-cs-sydney
 
 Sydney, Australia Anonymized DNS relay server provided by https://cryptostorm.is/
@@ -373,20 +331,6 @@ sdns://gRAxNDYuNzAuMzEuNDM6NDQz
 Tokyo, Japan IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
 
 sdns://gRhbMjAwMTphYzg6NDA6ZGY6OjUzXTo0NDM
-
-
-## anon-cs-brazil
-
-Brazil Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRIxNzcuNTQuMTQ1LjEzMTo0NDM
-
-
-## anon-cs-brazil6
-
-Brazil IPv6 Anonymized DNS relay server provided by https://cryptostorm.is/
-
-sdns://gRdbMjgwNDozOTFjOjA6Nzo6NTNdOjQ0Mw
 
 
 ## anon-cs-singapore
